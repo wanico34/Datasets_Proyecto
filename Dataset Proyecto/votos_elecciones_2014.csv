@@ -304,8 +304,8 @@ Montevideo;302;47;La Blanqueada;AUB;409;357;356;1;0;5
 Montevideo;303;47;La Blanqueada;AUB;411;379;377;2;3;2
 Montevideo;304;47;La Blanqueada;AUB;413;374;373;1;10;3
 Montevideo;305;47;La Blanqueada;AUB;408;363;361;2;1;8
-Montevideo;306;10;Pque. Batlle, V. Dolores;AUB;410;385;383;2;5;4
-Montevideo;307;10;Pque. Batlle, V. Dolores;AUB;407;361;359;2;6;2
+Montevideo;306;10;Pque. Batlle  V. Dolores;AUB;410;385;383;2;5;4
+Montevideo;307;10;Pque. Batlle  V. Dolores;AUB;407;361;359;2;6;2
 Montevideo;308;50;Tres Cruces;AUB;411;374;373;1;10;6
 Montevideo;309;50;Tres Cruces;AUB;411;376;375;1;4;2
 Montevideo;310;50;Tres Cruces;AUB;410;378;373;5;3;3
@@ -445,7 +445,7 @@ Montevideo;443;8;Pocitos;AXB;399;343;342;1;1;6
 Montevideo;444;8;Pocitos;AXB;400;328;326;2;4;1
 Montevideo;445;8;Pocitos;AXB;400;354;351;3;5;7
 Montevideo;446;8;Pocitos;AXB;400;359;357;2;3;1
-Montevideo;447;10;Pque. Batlle, V. Dolores;AXB;405;381;380;1;2;2
+Montevideo;447;10;Pque. Batlle  V. Dolores;AXB;405;381;380;1;2;2
 Montevideo;448;8;Pocitos;AZA;402;228;224;4;6;1
 Montevideo;449;8;Pocitos;AZA;403;303;299;4;0;0
 Montevideo;450;8;Pocitos;AZA;406;323;319;4;3;4
@@ -456,32 +456,32 @@ Montevideo;454;8;Pocitos;AZA;406;345;342;3;2;3
 Montevideo;455;8;Pocitos;AZA;407;366;363;3;2;2
 Montevideo;456;8;Pocitos;AZA;409;365;363;2;5;1
 Montevideo;457;8;Pocitos;AZA;408;350;349;1;2;5
-Montevideo;458;10;Pque. Batlle, V. Dolores;AZA;409;364;363;1;4;2
-Montevideo;459;10;Pque. Batlle, V. Dolores;AZA;410;380;379;1;5;1
-Montevideo;460;10;Pque. Batlle, V. Dolores;AZA;410;376;375;1;1;4
-Montevideo;461;10;Pque. Batlle, V. Dolores;AZA;410;361;359;2;4;1
-Montevideo;462;10;Pque. Batlle, V. Dolores;AZA;409;355;354;1;4;4
-Montevideo;463;10;Pque. Batlle, V. Dolores;AZA;409;367;365;2;5;3
-Montevideo;464;10;Pque. Batlle, V. Dolores;AZA;409;373;372;1;4;2
-Montevideo;465;10;Pque. Batlle, V. Dolores;AZA;411;378;377;1;3;4
-Montevideo;466;10;Pque. Batlle, V. Dolores;AZA;406;364;363;1;3;7
-Montevideo;467;10;Pque. Batlle, V. Dolores;AZA;409;362;360;2;4;3
-Montevideo;468;10;Pque. Batlle, V. Dolores;AZA;411;371;370;1;5;6
-Montevideo;469;10;Pque. Batlle, V. Dolores;AZA;410;372;370;2;12;2
-Montevideo;470;10;Pque. Batlle, V. Dolores;AZA;409;380;378;2;2;2
-Montevideo;471;10;Pque. Batlle, V. Dolores;AZA;409;367;364;3;6;7
-Montevideo;472;10;Pque. Batlle, V. Dolores;AZA;409;368;366;2;9;6
-Montevideo;473;10;Pque. Batlle, V. Dolores;AZA;401;372;370;2;6;1
-Montevideo;474;10;Pque. Batlle, V. Dolores;AZA;401;363;362;1;1;4
-Montevideo;475;10;Pque. Batlle, V. Dolores;AZA;401;341;339;2;5;1
-Montevideo;476;10;Pque. Batlle, V. Dolores;AZA;401;347;345;2;3;3
-Montevideo;477;10;Pque. Batlle, V. Dolores;AZA;400;358;356;2;6;4
-Montevideo;478;10;Pque. Batlle, V. Dolores;AZA;401;355;354;1;5;5
+Montevideo;458;10;Pque. Batlle  V. Dolores;AZA;409;364;363;1;4;2
+Montevideo;459;10;Pque. Batlle  V. Dolores;AZA;410;380;379;1;5;1
+Montevideo;460;10;Pque. Batlle  V. Dolores;AZA;410;376;375;1;1;4
+Montevideo;461;10;Pque. Batlle  V. Dolores;AZA;410;361;359;2;4;1
+Montevideo;462;10;Pque. Batlle  V. Dolores;AZA;409;355;354;1;4;4
+Montevideo;463;10;Pque. Batlle  V. Dolores;AZA;409;367;365;2;5;3
+Montevideo;464;10;Pque. Batlle  V. Dolores;AZA;409;373;372;1;4;2
+Montevideo;465;10;Pque. Batlle  V. Dolores;AZA;411;378;377;1;3;4
+Montevideo;466;10;Pque. Batlle  V. Dolores;AZA;406;364;363;1;3;7
+Montevideo;467;10;Pque. Batlle  V. Dolores;AZA;409;362;360;2;4;3
+Montevideo;468;10;Pque. Batlle  V. Dolores;AZA;411;371;370;1;5;6
+Montevideo;469;10;Pque. Batlle  V. Dolores;AZA;410;372;370;2;12;2
+Montevideo;470;10;Pque. Batlle  V. Dolores;AZA;409;380;378;2;2;2
+Montevideo;471;10;Pque. Batlle  V. Dolores;AZA;409;367;364;3;6;7
+Montevideo;472;10;Pque. Batlle  V. Dolores;AZA;409;368;366;2;9;6
+Montevideo;473;10;Pque. Batlle  V. Dolores;AZA;401;372;370;2;6;1
+Montevideo;474;10;Pque. Batlle  V. Dolores;AZA;401;363;362;1;1;4
+Montevideo;475;10;Pque. Batlle  V. Dolores;AZA;401;341;339;2;5;1
+Montevideo;476;10;Pque. Batlle  V. Dolores;AZA;401;347;345;2;3;3
+Montevideo;477;10;Pque. Batlle  V. Dolores;AZA;400;358;356;2;6;4
+Montevideo;478;10;Pque. Batlle  V. Dolores;AZA;401;355;354;1;5;5
 Montevideo;479;50;Tres Cruces;AZA;399;353;351;2;4;0
 Montevideo;480;50;Tres Cruces;AZA;400;357;355;2;6;5
 Montevideo;481;50;Tres Cruces;AZA;402;364;362;2;4;2
-Montevideo;482;10;Pque. Batlle, V. Dolores;AZA;401;340;339;1;1;3
-Montevideo;483;10;Pque. Batlle, V. Dolores;AZA;400;345;344;1;6;0
+Montevideo;482;10;Pque. Batlle  V. Dolores;AZA;401;340;339;1;1;3
+Montevideo;483;10;Pque. Batlle  V. Dolores;AZA;400;345;344;1;6;0
 Montevideo;484;8;Pocitos;AZA;399;346;344;2;6;5
 Montevideo;485;8;Pocitos;AZA;400;356;355;1;9;1
 Montevideo;486;8;Pocitos;AZA;399;352;351;1;4;0
@@ -506,16 +506,16 @@ Montevideo;504;8;Pocitos;AZB;399;361;360;1;2;1
 Montevideo;505;8;Pocitos;AZB;398;344;343;1;4;2
 Montevideo;506;8;Pocitos;AZB;400;353;351;2;2;5
 Montevideo;507;8;Pocitos;AZB;399;363;361;2;5;3
-Montevideo;508;10;Pque. Batlle, V. Dolores;AZB;398;353;351;2;3;3
-Montevideo;509;10;Pque. Batlle, V. Dolores;AZB;397;352;350;2;6;2
-Montevideo;510;10;Pque. Batlle, V. Dolores;AZB;399;358;354;4;1;3
-Montevideo;511;10;Pque. Batlle, V. Dolores;AZB;399;364;362;2;5;4
-Montevideo;512;10;Pque. Batlle, V. Dolores;AZB;398;333;330;3;6;2
-Montevideo;513;10;Pque. Batlle, V. Dolores;AZB;398;352;350;2;4;4
-Montevideo;514;10;Pque. Batlle, V. Dolores;AZB;401;350;348;2;0;2
-Montevideo;515;10;Pque. Batlle, V. Dolores;AZB;401;352;350;2;7;2
-Montevideo;516;10;Pque. Batlle, V. Dolores;AZB;400;326;325;1;3;1
-Montevideo;517;10;Pque. Batlle, V. Dolores;AZB;400;334;332;2;6;5
+Montevideo;508;10;Pque. Batlle  V. Dolores;AZB;398;353;351;2;3;3
+Montevideo;509;10;Pque. Batlle  V. Dolores;AZB;397;352;350;2;6;2
+Montevideo;510;10;Pque. Batlle  V. Dolores;AZB;399;358;354;4;1;3
+Montevideo;511;10;Pque. Batlle  V. Dolores;AZB;399;364;362;2;5;4
+Montevideo;512;10;Pque. Batlle  V. Dolores;AZB;398;333;330;3;6;2
+Montevideo;513;10;Pque. Batlle  V. Dolores;AZB;398;352;350;2;4;4
+Montevideo;514;10;Pque. Batlle  V. Dolores;AZB;401;350;348;2;0;2
+Montevideo;515;10;Pque. Batlle  V. Dolores;AZB;401;352;350;2;7;2
+Montevideo;516;10;Pque. Batlle  V. Dolores;AZB;400;326;325;1;3;1
+Montevideo;517;10;Pque. Batlle  V. Dolores;AZB;400;334;332;2;6;5
 Montevideo;518;9;Buceo;AZB;396;335;331;4;3;5
 Montevideo;519;9;Buceo;AZB;398;327;325;2;2;3
 Montevideo;520;9;Buceo;AZB;398;332;329;3;4;3
@@ -526,25 +526,25 @@ Montevideo;524;9;Buceo;AZB;399;339;336;3;3;4
 Montevideo;525;9;Buceo;AZB;398;350;349;1;3;5
 Montevideo;526;9;Buceo;AZB;398;330;329;1;3;4
 Montevideo;527;9;Buceo;AZB;399;348;347;1;7;1
-Montevideo;528;10;Pque. Batlle, V. Dolores;AZB;398;360;358;2;2;0
-Montevideo;529;10;Pque. Batlle, V. Dolores;AZB;403;376;374;2;4;2
-Montevideo;530;10;Pque. Batlle, V. Dolores;BAA;398;229;225;4;3;2
-Montevideo;531;10;Pque. Batlle, V. Dolores;BAA;404;308;304;4;4;1
-Montevideo;532;10;Pque. Batlle, V. Dolores;BAA;404;338;335;3;5;2
-Montevideo;533;10;Pque. Batlle, V. Dolores;BAA;409;363;358;5;7;2
-Montevideo;534;10;Pque. Batlle, V. Dolores;BAA;405;355;351;4;2;1
-Montevideo;535;10;Pque. Batlle, V. Dolores;BAA;408;356;352;4;1;2
-Montevideo;536;10;Pque. Batlle, V. Dolores;BAA;411;369;366;3;5;0
-Montevideo;537;10;Pque. Batlle, V. Dolores;BAA;406;359;358;1;6;3
-Montevideo;538;10;Pque. Batlle, V. Dolores;BAA;409;352;350;2;4;3
-Montevideo;539;10;Pque. Batlle, V. Dolores;BAA;409;359;358;1;4;3
+Montevideo;528;10;Pque. Batlle  V. Dolores;AZB;398;360;358;2;2;0
+Montevideo;529;10;Pque. Batlle  V. Dolores;AZB;403;376;374;2;4;2
+Montevideo;530;10;Pque. Batlle  V. Dolores;BAA;398;229;225;4;3;2
+Montevideo;531;10;Pque. Batlle  V. Dolores;BAA;404;308;304;4;4;1
+Montevideo;532;10;Pque. Batlle  V. Dolores;BAA;404;338;335;3;5;2
+Montevideo;533;10;Pque. Batlle  V. Dolores;BAA;409;363;358;5;7;2
+Montevideo;534;10;Pque. Batlle  V. Dolores;BAA;405;355;351;4;2;1
+Montevideo;535;10;Pque. Batlle  V. Dolores;BAA;408;356;352;4;1;2
+Montevideo;536;10;Pque. Batlle  V. Dolores;BAA;411;369;366;3;5;0
+Montevideo;537;10;Pque. Batlle  V. Dolores;BAA;406;359;358;1;6;3
+Montevideo;538;10;Pque. Batlle  V. Dolores;BAA;409;352;350;2;4;3
+Montevideo;539;10;Pque. Batlle  V. Dolores;BAA;409;359;358;1;4;3
 Montevideo;540;9;Buceo;BAA;409;370;369;1;4;2
 Montevideo;541;9;Buceo;BAA;411;381;380;1;7;5
-Montevideo;542;10;Pque. Batlle, V. Dolores;BAA;409;375;374;1;6;5
-Montevideo;543;10;Pque. Batlle, V. Dolores;BAA;409;363;362;1;3;5
-Montevideo;544;10;Pque. Batlle, V. Dolores;BAA;408;367;365;2;2;2
-Montevideo;545;10;Pque. Batlle, V. Dolores;BAA;407;353;351;2;5;5
-Montevideo;546;10;Pque. Batlle, V. Dolores;BAA;412;367;366;1;7;7
+Montevideo;542;10;Pque. Batlle  V. Dolores;BAA;409;375;374;1;6;5
+Montevideo;543;10;Pque. Batlle  V. Dolores;BAA;409;363;362;1;3;5
+Montevideo;544;10;Pque. Batlle  V. Dolores;BAA;408;367;365;2;2;2
+Montevideo;545;10;Pque. Batlle  V. Dolores;BAA;407;353;351;2;5;5
+Montevideo;546;10;Pque. Batlle  V. Dolores;BAA;412;367;366;1;7;7
 Montevideo;547;9;Buceo;BAA;410;367;365;2;2;5
 Montevideo;548;9;Buceo;BAA;411;363;362;1;5;5
 Montevideo;549;8;Pocitos;BAA;409;366;365;1;5;8
@@ -578,26 +578,26 @@ Montevideo;576;9;Buceo;BAA;400;360;358;2;4;0
 Montevideo;577;9;Buceo;BAA;400;374;371;3;2;2
 Montevideo;578;9;Buceo;BAA;400;374;372;2;6;1
 Montevideo;579;9;Buceo;BAA;402;387;384;3;7;6
-Montevideo;580;10;Pque. Batlle, V. Dolores;BAB;399;238;234;4;4;2
-Montevideo;581;10;Pque. Batlle, V. Dolores;BAB;398;283;279;4;6;5
-Montevideo;582;10;Pque. Batlle, V. Dolores;BAB;402;300;295;5;6;3
-Montevideo;583;10;Pque. Batlle, V. Dolores;BAB;407;341;337;4;3;4
-Montevideo;584;10;Pque. Batlle, V. Dolores;BAB;403;347;343;4;6;2
-Montevideo;585;10;Pque. Batlle, V. Dolores;BAB;406;367;363;4;7;4
-Montevideo;586;10;Pque. Batlle, V. Dolores;BAB;404;352;348;4;7;1
-Montevideo;587;10;Pque. Batlle, V. Dolores;BAB;409;355;351;4;3;3
-Montevideo;588;10;Pque. Batlle, V. Dolores;BAB;410;361;357;4;6;2
-Montevideo;589;10;Pque. Batlle, V. Dolores;BAB;404;352;350;2;5;2
-Montevideo;590;10;Pque. Batlle, V. Dolores;BAB;407;349;346;3;7;7
-Montevideo;591;10;Pque. Batlle, V. Dolores;BAB;408;364;362;2;6;4
-Montevideo;592;10;Pque. Batlle, V. Dolores;BAB;408;381;380;1;9;7
-Montevideo;593;10;Pque. Batlle, V. Dolores;BAB;407;375;373;2;4;3
-Montevideo;594;10;Pque. Batlle, V. Dolores;BAB;410;369;367;2;4;5
-Montevideo;595;10;Pque. Batlle, V. Dolores;BAB;411;373;371;2;7;5
-Montevideo;596;10;Pque. Batlle, V. Dolores;BAB;406;363;362;1;5;2
-Montevideo;597;10;Pque. Batlle, V. Dolores;BAB;409;368;366;2;5;5
-Montevideo;598;10;Pque. Batlle, V. Dolores;BAB;409;363;361;2;3;6
-Montevideo;599;10;Pque. Batlle, V. Dolores;BAB;406;372;371;1;7;10
+Montevideo;580;10;Pque. Batlle  V. Dolores;BAB;399;238;234;4;4;2
+Montevideo;581;10;Pque. Batlle  V. Dolores;BAB;398;283;279;4;6;5
+Montevideo;582;10;Pque. Batlle  V. Dolores;BAB;402;300;295;5;6;3
+Montevideo;583;10;Pque. Batlle  V. Dolores;BAB;407;341;337;4;3;4
+Montevideo;584;10;Pque. Batlle  V. Dolores;BAB;403;347;343;4;6;2
+Montevideo;585;10;Pque. Batlle  V. Dolores;BAB;406;367;363;4;7;4
+Montevideo;586;10;Pque. Batlle  V. Dolores;BAB;404;352;348;4;7;1
+Montevideo;587;10;Pque. Batlle  V. Dolores;BAB;409;355;351;4;3;3
+Montevideo;588;10;Pque. Batlle  V. Dolores;BAB;410;361;357;4;6;2
+Montevideo;589;10;Pque. Batlle  V. Dolores;BAB;404;352;350;2;5;2
+Montevideo;590;10;Pque. Batlle  V. Dolores;BAB;407;349;346;3;7;7
+Montevideo;591;10;Pque. Batlle  V. Dolores;BAB;408;364;362;2;6;4
+Montevideo;592;10;Pque. Batlle  V. Dolores;BAB;408;381;380;1;9;7
+Montevideo;593;10;Pque. Batlle  V. Dolores;BAB;407;375;373;2;4;3
+Montevideo;594;10;Pque. Batlle  V. Dolores;BAB;410;369;367;2;4;5
+Montevideo;595;10;Pque. Batlle  V. Dolores;BAB;411;373;371;2;7;5
+Montevideo;596;10;Pque. Batlle  V. Dolores;BAB;406;363;362;1;5;2
+Montevideo;597;10;Pque. Batlle  V. Dolores;BAB;409;368;366;2;5;5
+Montevideo;598;10;Pque. Batlle  V. Dolores;BAB;409;363;361;2;3;6
+Montevideo;599;10;Pque. Batlle  V. Dolores;BAB;406;372;371;1;7;10
 Montevideo;600;9;Buceo;BAB;412;371;368;3;10;8
 Montevideo;601;9;Buceo;BAB;409;368;366;2;8;4
 Montevideo;602;9;Buceo;BAB;408;369;368;1;5;3
@@ -623,21 +623,21 @@ Montevideo;621;9;Buceo;BAB;400;347;346;1;3;2
 Montevideo;622;9;Buceo;BAB;399;360;358;2;7;5
 Montevideo;623;9;Buceo;BAB;398;352;351;1;5;3
 Montevideo;624;9;Buceo;BAB;400;356;355;1;5;2
-Montevideo;625;10;Pque. Batlle, V. Dolores;BAB;400;364;363;1;9;3
-Montevideo;626;26;Castro, P. Castellanos;BAB;400;363;361;2;7;4
-Montevideo;627;26;Castro, P. Castellanos;BAB;400;352;351;1;8;6
-Montevideo;628;26;Castro, P. Castellanos;BAB;400;360;358;2;2;4
-Montevideo;629;26;Castro, P. Castellanos;BAB;399;367;366;1;8;6
+Montevideo;625;10;Pque. Batlle  V. Dolores;BAB;400;364;363;1;9;3
+Montevideo;626;26;Castro  P. Castellanos;BAB;400;363;361;2;7;4
+Montevideo;627;26;Castro  P. Castellanos;BAB;400;352;351;1;8;6
+Montevideo;628;26;Castro  P. Castellanos;BAB;400;360;358;2;2;4
+Montevideo;629;26;Castro  P. Castellanos;BAB;399;367;366;1;8;6
 Montevideo;630;24;Villa Espa她la;BAB;399;382;380;2;8;3
 Montevideo;631;24;Villa Espa她la;BAB;399;366;364;2;5;6
 Montevideo;632;24;Villa Espa她la;BAB;399;379;377;2;5;4
-Montevideo;633;26;Castro, P. Castellanos;BAB;400;347;344;3;5;4
-Montevideo;634;26;Castro, P. Castellanos;BAB;399;372;370;2;8;1
-Montevideo;635;26;Castro, P. Castellanos;BAB;400;374;371;3;4;3
-Montevideo;636;26;Castro, P. Castellanos;BAB;400;386;384;2;12;0
-Montevideo;637;26;Castro, P. Castellanos;BAB;400;381;380;1;5;4
-Montevideo;638;26;Castro, P. Castellanos;BAB;402;386;383;3;3;1
-Montevideo;639;26;Castro, P. Castellanos;BBA;397;227;223;4;0;1
+Montevideo;633;26;Castro  P. Castellanos;BAB;400;347;344;3;5;4
+Montevideo;634;26;Castro  P. Castellanos;BAB;399;372;370;2;8;1
+Montevideo;635;26;Castro  P. Castellanos;BAB;400;374;371;3;4;3
+Montevideo;636;26;Castro  P. Castellanos;BAB;400;386;384;2;12;0
+Montevideo;637;26;Castro  P. Castellanos;BAB;400;381;380;1;5;4
+Montevideo;638;26;Castro  P. Castellanos;BAB;402;386;383;3;3;1
+Montevideo;639;26;Castro  P. Castellanos;BBA;397;227;223;4;0;1
 Montevideo;640;24;Villa Espa她la;BBA;404;297;293;4;2;10
 Montevideo;641;24;Villa Espa她la;BBA;405;314;308;6;2;4
 Montevideo;642;24;Villa Espa她la;BBA;406;343;340;3;4;8
@@ -689,43 +689,43 @@ Montevideo;687;23;Union;BBA;407;372;370;2;5;4
 Montevideo;688;23;Union;BBA;409;378;374;4;5;3
 Montevideo;689;23;Union;BBA;407;388;386;2;7;3
 Montevideo;690;23;Union;BBA;409;392;388;4;3;4
-Montevideo;691;25;Mercado Modelo, Bolivar;BBB;400;219;215;4;3;1
-Montevideo;692;25;Mercado Modelo, Bolivar;BBB;400;284;280;4;6;4
-Montevideo;693;25;Mercado Modelo, Bolivar;BBB;406;306;302;4;3;2
-Montevideo;694;25;Mercado Modelo, Bolivar;BBB;404;331;329;2;1;5
-Montevideo;695;25;Mercado Modelo, Bolivar;BBB;409;344;341;3;4;2
-Montevideo;696;25;Mercado Modelo, Bolivar;BBB;407;343;340;3;8;2
-Montevideo;697;25;Mercado Modelo, Bolivar;BBB;407;357;353;4;4;5
-Montevideo;698;26;Castro, P. Castellanos;BBB;411;368;363;5;7;4
-Montevideo;699;26;Castro, P. Castellanos;BBB;409;359;355;4;8;3
-Montevideo;700;26;Castro, P. Castellanos;BBB;411;365;361;4;3;6
-Montevideo;701;26;Castro, P. Castellanos;BBB;410;368;365;3;2;7
-Montevideo;702;26;Castro, P. Castellanos;BBB;409;378;377;1;2;6
-Montevideo;703;26;Castro, P. Castellanos;BBB;408;366;365;1;7;5
-Montevideo;704;26;Castro, P. Castellanos;BBB;408;357;354;3;8;2
-Montevideo;705;26;Castro, P. Castellanos;BBB;407;361;358;3;6;7
-Montevideo;706;26;Castro, P. Castellanos;BBB;408;360;359;1;3;5
-Montevideo;707;26;Castro, P. Castellanos;BBB;409;374;372;2;6;5
-Montevideo;708;26;Castro, P. Castellanos;BBB;411;381;380;1;7;9
-Montevideo;709;26;Castro, P. Castellanos;BBB;409;374;372;2;3;1
-Montevideo;710;26;Castro, P. Castellanos;BBB;409;375;373;2;2;3
-Montevideo;711;26;Castro, P. Castellanos;BBB;412;372;370;2;3;6
-Montevideo;712;25;Mercado Modelo, Bolivar;BBB;410;386;384;2;9;5
-Montevideo;713;25;Mercado Modelo, Bolivar;BBB;409;372;371;1;8;5
-Montevideo;714;25;Mercado Modelo, Bolivar;BBB;411;358;356;2;2;0
-Montevideo;715;25;Mercado Modelo, Bolivar;BBB;409;370;367;3;7;4
-Montevideo;716;25;Mercado Modelo, Bolivar;BBB;411;368;366;2;6;9
-Montevideo;717;25;Mercado Modelo, Bolivar;BBB;412;373;370;3;12;5
-Montevideo;718;25;Mercado Modelo, Bolivar;BBB;411;378;377;1;8;6
-Montevideo;719;25;Mercado Modelo, Bolivar;BBB;409;341;340;1;5;1
-Montevideo;720;25;Mercado Modelo, Bolivar;BBB;411;372;370;2;5;4
-Montevideo;721;25;Mercado Modelo, Bolivar;BBB;408;363;362;1;10;0
-Montevideo;722;25;Mercado Modelo, Bolivar;BBB;410;364;363;1;5;6
-Montevideo;723;25;Mercado Modelo, Bolivar;BBB;413;352;349;3;3;1
-Montevideo;724;25;Mercado Modelo, Bolivar;BBB;410;326;324;2;3;0
-Montevideo;725;25;Mercado Modelo, Bolivar;BBB;411;371;367;4;3;5
-Montevideo;726;25;Mercado Modelo, Bolivar;BBB;401;342;340;2;7;0
-Montevideo;727;25;Mercado Modelo, Bolivar;BBB;401;363;362;1;7;2
+Montevideo;691;25;Mercado Modelo  Bolivar;BBB;400;219;215;4;3;1
+Montevideo;692;25;Mercado Modelo  Bolivar;BBB;400;284;280;4;6;4
+Montevideo;693;25;Mercado Modelo  Bolivar;BBB;406;306;302;4;3;2
+Montevideo;694;25;Mercado Modelo  Bolivar;BBB;404;331;329;2;1;5
+Montevideo;695;25;Mercado Modelo  Bolivar;BBB;409;344;341;3;4;2
+Montevideo;696;25;Mercado Modelo  Bolivar;BBB;407;343;340;3;8;2
+Montevideo;697;25;Mercado Modelo  Bolivar;BBB;407;357;353;4;4;5
+Montevideo;698;26;Castro  P. Castellanos;BBB;411;368;363;5;7;4
+Montevideo;699;26;Castro  P. Castellanos;BBB;409;359;355;4;8;3
+Montevideo;700;26;Castro  P. Castellanos;BBB;411;365;361;4;3;6
+Montevideo;701;26;Castro  P. Castellanos;BBB;410;368;365;3;2;7
+Montevideo;702;26;Castro  P. Castellanos;BBB;409;378;377;1;2;6
+Montevideo;703;26;Castro  P. Castellanos;BBB;408;366;365;1;7;5
+Montevideo;704;26;Castro  P. Castellanos;BBB;408;357;354;3;8;2
+Montevideo;705;26;Castro  P. Castellanos;BBB;407;361;358;3;6;7
+Montevideo;706;26;Castro  P. Castellanos;BBB;408;360;359;1;3;5
+Montevideo;707;26;Castro  P. Castellanos;BBB;409;374;372;2;6;5
+Montevideo;708;26;Castro  P. Castellanos;BBB;411;381;380;1;7;9
+Montevideo;709;26;Castro  P. Castellanos;BBB;409;374;372;2;3;1
+Montevideo;710;26;Castro  P. Castellanos;BBB;409;375;373;2;2;3
+Montevideo;711;26;Castro  P. Castellanos;BBB;412;372;370;2;3;6
+Montevideo;712;25;Mercado Modelo  Bolivar;BBB;410;386;384;2;9;5
+Montevideo;713;25;Mercado Modelo  Bolivar;BBB;409;372;371;1;8;5
+Montevideo;714;25;Mercado Modelo  Bolivar;BBB;411;358;356;2;2;0
+Montevideo;715;25;Mercado Modelo  Bolivar;BBB;409;370;367;3;7;4
+Montevideo;716;25;Mercado Modelo  Bolivar;BBB;411;368;366;2;6;9
+Montevideo;717;25;Mercado Modelo  Bolivar;BBB;412;373;370;3;12;5
+Montevideo;718;25;Mercado Modelo  Bolivar;BBB;411;378;377;1;8;6
+Montevideo;719;25;Mercado Modelo  Bolivar;BBB;409;341;340;1;5;1
+Montevideo;720;25;Mercado Modelo  Bolivar;BBB;411;372;370;2;5;4
+Montevideo;721;25;Mercado Modelo  Bolivar;BBB;408;363;362;1;10;0
+Montevideo;722;25;Mercado Modelo  Bolivar;BBB;410;364;363;1;5;6
+Montevideo;723;25;Mercado Modelo  Bolivar;BBB;413;352;349;3;3;1
+Montevideo;724;25;Mercado Modelo  Bolivar;BBB;410;326;324;2;3;0
+Montevideo;725;25;Mercado Modelo  Bolivar;BBB;411;371;367;4;3;5
+Montevideo;726;25;Mercado Modelo  Bolivar;BBB;401;342;340;2;7;0
+Montevideo;727;25;Mercado Modelo  Bolivar;BBB;401;363;362;1;7;2
 Montevideo;728;24;Villa Espa她la;BBB;401;350;348;2;5;6
 Montevideo;729;24;Villa Espa她la;BBB;400;347;345;2;4;2
 Montevideo;730;11;Malvin;BBB;400;349;347;2;5;4
@@ -1105,12 +1105,12 @@ Montevideo;1103;21;Jardines del Hipodromo;BDA;410;383;380;3;6;2
 Montevideo;1104;21;Jardines del Hipodromo;BDA;411;376;372;4;2;1
 Montevideo;1105;21;Jardines del Hipodromo;BDA;410;367;363;4;1;7
 Montevideo;1106;21;Jardines del Hipodromo;BDA;413;370;367;3;6;6
-Montevideo;1107;17;Maro地s, Parque Guarani;BDA;411;382;380;2;3;6
-Montevideo;1108;17;Maro地s, Parque Guarani;BDA;410;377;374;3;12;5
-Montevideo;1109;17;Maro地s, Parque Guarani;BDA;412;378;375;3;12;1
-Montevideo;1110;17;Maro地s, Parque Guarani;BDA;409;369;368;1;5;2
-Montevideo;1111;17;Maro地s, Parque Guarani;BDA;412;378;376;2;4;2
-Montevideo;1112;17;Maro地s, Parque Guarani;BDA;410;383;380;3;4;4
+Montevideo;1107;17;Maro地s  Parque Guarani;BDA;411;382;380;2;3;6
+Montevideo;1108;17;Maro地s  Parque Guarani;BDA;410;377;374;3;12;5
+Montevideo;1109;17;Maro地s  Parque Guarani;BDA;412;378;375;3;12;1
+Montevideo;1110;17;Maro地s  Parque Guarani;BDA;409;369;368;1;5;2
+Montevideo;1111;17;Maro地s  Parque Guarani;BDA;412;378;376;2;4;2
+Montevideo;1112;17;Maro地s  Parque Guarani;BDA;410;383;380;3;4;4
 Montevideo;1113;24;Villa Espa她la;BDA;410;366;365;1;8;6
 Montevideo;1114;24;Villa Espa她la;BDA;411;364;361;3;5;2
 Montevideo;1115;24;Villa Espa她la;BDA;410;381;379;2;4;3
@@ -1189,9 +1189,9 @@ Montevideo;1187;18;Flor de Maro地s;BDB;407;379;376;3;5;7
 Montevideo;1188;18;Flor de Maro地s;BDB;410;371;370;1;10;4
 Montevideo;1189;18;Flor de Maro地s;BDB;408;371;370;1;3;6
 Montevideo;1190;18;Flor de Maro地s;BDB;409;360;359;1;4;5
-Montevideo;1191;20;Pta. Rieles, Bella Italia;BDB;407;364;362;2;4;4
-Montevideo;1192;20;Pta. Rieles, Bella Italia;BDB;409;356;352;4;4;4
-Montevideo;1193;20;Pta. Rieles, Bella Italia;BDB;410;367;366;1;6;6
+Montevideo;1191;20;Pta. Rieles  Bella Italia;BDB;407;364;362;2;4;4
+Montevideo;1192;20;Pta. Rieles  Bella Italia;BDB;409;356;352;4;4;4
+Montevideo;1193;20;Pta. Rieles  Bella Italia;BDB;410;367;366;1;6;6
 Montevideo;1194;12;Malvin Norte;BDB;409;362;360;2;8;4
 Montevideo;1195;12;Malvin Norte;BDB;409;370;369;1;3;2
 Montevideo;1196;12;Malvin Norte;BDB;408;373;371;2;4;3
@@ -1218,73 +1218,73 @@ Montevideo;1216;12;Malvin Norte;BDB;408;377;374;3;6;4
 Montevideo;1217;12;Malvin Norte;BDB;408;365;363;2;3;5
 Montevideo;1218;16;Ba地dos de Carrasco;BDB;409;374;370;4;4;2
 Montevideo;1219;16;Ba地dos de Carrasco;BDB;408;371;368;3;7;6
-Montevideo;1220;61;Villa Garcia, Manga Rur.;BDB;407;374;370;4;6;3
-Montevideo;1221;20;Pta. Rieles, Bella Italia;BDB;408;364;360;4;10;1
-Montevideo;1222;20;Pta. Rieles, Bella Italia;BDB;407;373;370;3;9;3
-Montevideo;1223;20;Pta. Rieles, Bella Italia;BDB;408;377;375;2;7;3
-Montevideo;1224;20;Pta. Rieles, Bella Italia;BDB;408;376;372;4;6;4
-Montevideo;1225;20;Pta. Rieles, Bella Italia;BDB;408;380;377;3;4;1
-Montevideo;1226;20;Pta. Rieles, Bella Italia;BDB;408;372;369;3;15;4
-Montevideo;1227;20;Pta. Rieles, Bella Italia;BDB;408;382;378;4;7;3
-Montevideo;1228;20;Pta. Rieles, Bella Italia;BDB;407;381;378;3;4;1
-Montevideo;1229;20;Pta. Rieles, Bella Italia;BDB;407;387;383;4;6;2
-Montevideo;1230;20;Pta. Rieles, Bella Italia;BDB;408;393;388;5;14;1
-Montevideo;1231;20;Pta. Rieles, Bella Italia;BDB;408;391;388;3;6;1
-Montevideo;1232;20;Pta. Rieles, Bella Italia;BDB;412;392;388;4;9;4
-Montevideo;1233;20;Pta. Rieles, Bella Italia;BDC;410;356;352;4;5;5
-Montevideo;1234;20;Pta. Rieles, Bella Italia;BDC;404;343;338;5;7;4
-Montevideo;1235;20;Pta. Rieles, Bella Italia;BDC;408;374;372;2;3;5
-Montevideo;1236;20;Pta. Rieles, Bella Italia;BDC;407;371;370;1;1;5
-Montevideo;1237;20;Pta. Rieles, Bella Italia;BDC;411;378;376;2;3;0
-Montevideo;1238;20;Pta. Rieles, Bella Italia;BDC;409;385;382;3;6;21
-Montevideo;1239;61;Villa Garcia, Manga Rur.;BDC;409;360;359;1;5;4
-Montevideo;1240;61;Villa Garcia, Manga Rur.;BDC;410;367;366;1;6;7
-Montevideo;1241;61;Villa Garcia, Manga Rur.;BDC;410;375;373;2;2;11
-Montevideo;1242;61;Villa Garcia, Manga Rur.;BDC;397;369;368;1;1;11
-Montevideo;1243;61;Villa Garcia, Manga Rur.;BDC;400;355;353;2;7;7
-Montevideo;1244;61;Villa Garcia, Manga Rur.;BDC;400;351;350;1;5;3
-Montevideo;1245;61;Villa Garcia, Manga Rur.;BDC;400;363;362;1;2;7
-Montevideo;1246;61;Villa Garcia, Manga Rur.;BDC;400;362;361;1;4;5
-Montevideo;1247;61;Villa Garcia, Manga Rur.;BDC;400;351;350;1;4;3
-Montevideo;1248;61;Villa Garcia, Manga Rur.;BDC;400;355;354;1;4;3
-Montevideo;1249;61;Villa Garcia, Manga Rur.;BDC;400;353;351;2;5;2
-Montevideo;1250;61;Villa Garcia, Manga Rur.;BDC;398;337;336;1;6;3
-Montevideo;1251;61;Villa Garcia, Manga Rur.;BDC;401;365;363;2;9;2
-Montevideo;1252;61;Villa Garcia, Manga Rur.;BDC;399;362;360;2;2;3
-Montevideo;1253;61;Villa Garcia, Manga Rur.;BDC;400;368;365;3;4;5
-Montevideo;1254;61;Villa Garcia, Manga Rur.;BDC;400;354;353;1;6;2
-Montevideo;1255;61;Villa Garcia, Manga Rur.;BDC;399;362;359;3;4;3
-Montevideo;1256;61;Villa Garcia, Manga Rur.;BDC;400;354;351;3;4;2
-Montevideo;1257;61;Villa Garcia, Manga Rur.;BDC;399;351;348;3;6;1
-Montevideo;1258;61;Villa Garcia, Manga Rur.;BDC;400;369;367;2;6;6
-Montevideo;1259;61;Villa Garcia, Manga Rur.;BDC;399;354;352;2;4;4
-Montevideo;1260;61;Villa Garcia, Manga Rur.;BDC;398;359;357;2;5;4
-Montevideo;1261;61;Villa Garcia, Manga Rur.;BDC;400;363;362;1;4;0
-Montevideo;1262;32;Manga, Toledo Chico;BDC;399;363;359;4;3;3
-Montevideo;1263;32;Manga, Toledo Chico;BDC;400;357;354;3;5;3
-Montevideo;1264;32;Manga, Toledo Chico;BDC;400;369;366;3;4;4
-Montevideo;1265;32;Manga, Toledo Chico;BDC;400;361;357;4;4;3
-Montevideo;1266;32;Manga, Toledo Chico;BDC;400;370;366;4;7;5
-Montevideo;1267;32;Manga, Toledo Chico;BDC;400;376;372;4;5;4
-Montevideo;1268;32;Manga, Toledo Chico;BDC;400;326;323;3;10;4
-Montevideo;1269;32;Manga, Toledo Chico;BDC;400;346;342;4;3;2
-Montevideo;1270;32;Manga, Toledo Chico;BDC;408;357;353;4;5;3
-Montevideo;1271;32;Manga, Toledo Chico;BDD;406;365;362;3;3;4
-Montevideo;1272;32;Manga, Toledo Chico;BDD;406;368;366;2;8;8
-Montevideo;1273;32;Manga, Toledo Chico;BDD;409;386;384;2;3;5
-Montevideo;1274;32;Manga, Toledo Chico;BDD;411;380;378;2;6;12
-Montevideo;1275;32;Manga, Toledo Chico;BDD;410;381;379;2;7;9
-Montevideo;1276;32;Manga, Toledo Chico;BDD;409;377;376;1;3;6
-Montevideo;1277;32;Manga, Toledo Chico;BDD;410;382;381;1;13;6
-Montevideo;1278;32;Manga, Toledo Chico;BDD;412;382;381;1;6;0
-Montevideo;1279;32;Manga, Toledo Chico;BDD;410;388;386;2;5;6
-Montevideo;1280;32;Manga, Toledo Chico;BDD;411;383;382;1;5;9
-Montevideo;1281;32;Manga, Toledo Chico;BDD;410;367;366;1;2;9
-Montevideo;1282;32;Manga, Toledo Chico;BDD;410;371;370;1;9;6
-Montevideo;1283;20;Pta. Rieles, Bella Italia;BDD;399;363;362;1;3;0
-Montevideo;1284;20;Pta. Rieles, Bella Italia;BDD;400;364;362;2;6;8
-Montevideo;1285;20;Pta. Rieles, Bella Italia;BDD;401;372;370;2;11;1
-Montevideo;1286;20;Pta. Rieles, Bella Italia;BDD;399;361;360;1;9;3
+Montevideo;1220;61;Villa Garcia  Manga Rur.;BDB;407;374;370;4;6;3
+Montevideo;1221;20;Pta. Rieles  Bella Italia;BDB;408;364;360;4;10;1
+Montevideo;1222;20;Pta. Rieles  Bella Italia;BDB;407;373;370;3;9;3
+Montevideo;1223;20;Pta. Rieles  Bella Italia;BDB;408;377;375;2;7;3
+Montevideo;1224;20;Pta. Rieles  Bella Italia;BDB;408;376;372;4;6;4
+Montevideo;1225;20;Pta. Rieles  Bella Italia;BDB;408;380;377;3;4;1
+Montevideo;1226;20;Pta. Rieles  Bella Italia;BDB;408;372;369;3;15;4
+Montevideo;1227;20;Pta. Rieles  Bella Italia;BDB;408;382;378;4;7;3
+Montevideo;1228;20;Pta. Rieles  Bella Italia;BDB;407;381;378;3;4;1
+Montevideo;1229;20;Pta. Rieles  Bella Italia;BDB;407;387;383;4;6;2
+Montevideo;1230;20;Pta. Rieles  Bella Italia;BDB;408;393;388;5;14;1
+Montevideo;1231;20;Pta. Rieles  Bella Italia;BDB;408;391;388;3;6;1
+Montevideo;1232;20;Pta. Rieles  Bella Italia;BDB;412;392;388;4;9;4
+Montevideo;1233;20;Pta. Rieles  Bella Italia;BDC;410;356;352;4;5;5
+Montevideo;1234;20;Pta. Rieles  Bella Italia;BDC;404;343;338;5;7;4
+Montevideo;1235;20;Pta. Rieles  Bella Italia;BDC;408;374;372;2;3;5
+Montevideo;1236;20;Pta. Rieles  Bella Italia;BDC;407;371;370;1;1;5
+Montevideo;1237;20;Pta. Rieles  Bella Italia;BDC;411;378;376;2;3;0
+Montevideo;1238;20;Pta. Rieles  Bella Italia;BDC;409;385;382;3;6;21
+Montevideo;1239;61;Villa Garcia  Manga Rur.;BDC;409;360;359;1;5;4
+Montevideo;1240;61;Villa Garcia  Manga Rur.;BDC;410;367;366;1;6;7
+Montevideo;1241;61;Villa Garcia  Manga Rur.;BDC;410;375;373;2;2;11
+Montevideo;1242;61;Villa Garcia  Manga Rur.;BDC;397;369;368;1;1;11
+Montevideo;1243;61;Villa Garcia  Manga Rur.;BDC;400;355;353;2;7;7
+Montevideo;1244;61;Villa Garcia  Manga Rur.;BDC;400;351;350;1;5;3
+Montevideo;1245;61;Villa Garcia  Manga Rur.;BDC;400;363;362;1;2;7
+Montevideo;1246;61;Villa Garcia  Manga Rur.;BDC;400;362;361;1;4;5
+Montevideo;1247;61;Villa Garcia  Manga Rur.;BDC;400;351;350;1;4;3
+Montevideo;1248;61;Villa Garcia  Manga Rur.;BDC;400;355;354;1;4;3
+Montevideo;1249;61;Villa Garcia  Manga Rur.;BDC;400;353;351;2;5;2
+Montevideo;1250;61;Villa Garcia  Manga Rur.;BDC;398;337;336;1;6;3
+Montevideo;1251;61;Villa Garcia  Manga Rur.;BDC;401;365;363;2;9;2
+Montevideo;1252;61;Villa Garcia  Manga Rur.;BDC;399;362;360;2;2;3
+Montevideo;1253;61;Villa Garcia  Manga Rur.;BDC;400;368;365;3;4;5
+Montevideo;1254;61;Villa Garcia  Manga Rur.;BDC;400;354;353;1;6;2
+Montevideo;1255;61;Villa Garcia  Manga Rur.;BDC;399;362;359;3;4;3
+Montevideo;1256;61;Villa Garcia  Manga Rur.;BDC;400;354;351;3;4;2
+Montevideo;1257;61;Villa Garcia  Manga Rur.;BDC;399;351;348;3;6;1
+Montevideo;1258;61;Villa Garcia  Manga Rur.;BDC;400;369;367;2;6;6
+Montevideo;1259;61;Villa Garcia  Manga Rur.;BDC;399;354;352;2;4;4
+Montevideo;1260;61;Villa Garcia  Manga Rur.;BDC;398;359;357;2;5;4
+Montevideo;1261;61;Villa Garcia  Manga Rur.;BDC;400;363;362;1;4;0
+Montevideo;1262;32;Manga  Toledo Chico;BDC;399;363;359;4;3;3
+Montevideo;1263;32;Manga  Toledo Chico;BDC;400;357;354;3;5;3
+Montevideo;1264;32;Manga  Toledo Chico;BDC;400;369;366;3;4;4
+Montevideo;1265;32;Manga  Toledo Chico;BDC;400;361;357;4;4;3
+Montevideo;1266;32;Manga  Toledo Chico;BDC;400;370;366;4;7;5
+Montevideo;1267;32;Manga  Toledo Chico;BDC;400;376;372;4;5;4
+Montevideo;1268;32;Manga  Toledo Chico;BDC;400;326;323;3;10;4
+Montevideo;1269;32;Manga  Toledo Chico;BDC;400;346;342;4;3;2
+Montevideo;1270;32;Manga  Toledo Chico;BDC;408;357;353;4;5;3
+Montevideo;1271;32;Manga  Toledo Chico;BDD;406;365;362;3;3;4
+Montevideo;1272;32;Manga  Toledo Chico;BDD;406;368;366;2;8;8
+Montevideo;1273;32;Manga  Toledo Chico;BDD;409;386;384;2;3;5
+Montevideo;1274;32;Manga  Toledo Chico;BDD;411;380;378;2;6;12
+Montevideo;1275;32;Manga  Toledo Chico;BDD;410;381;379;2;7;9
+Montevideo;1276;32;Manga  Toledo Chico;BDD;409;377;376;1;3;6
+Montevideo;1277;32;Manga  Toledo Chico;BDD;410;382;381;1;13;6
+Montevideo;1278;32;Manga  Toledo Chico;BDD;412;382;381;1;6;0
+Montevideo;1279;32;Manga  Toledo Chico;BDD;410;388;386;2;5;6
+Montevideo;1280;32;Manga  Toledo Chico;BDD;411;383;382;1;5;9
+Montevideo;1281;32;Manga  Toledo Chico;BDD;410;367;366;1;2;9
+Montevideo;1282;32;Manga  Toledo Chico;BDD;410;371;370;1;9;6
+Montevideo;1283;20;Pta. Rieles  Bella Italia;BDD;399;363;362;1;3;0
+Montevideo;1284;20;Pta. Rieles  Bella Italia;BDD;400;364;362;2;6;8
+Montevideo;1285;20;Pta. Rieles  Bella Italia;BDD;401;372;370;2;11;1
+Montevideo;1286;20;Pta. Rieles  Bella Italia;BDD;399;361;360;1;9;3
 Montevideo;1287;18;Flor de Maro地s;BDD;400;358;355;3;10;2
 Montevideo;1288;18;Flor de Maro地s;BDD;398;357;353;4;9;2
 Montevideo;1289;18;Flor de Maro地s;BDD;406;394;390;4;7;3
@@ -1305,33 +1305,33 @@ Montevideo;1303;18;Flor de Maro地s;BDE;410;349;348;1;4;2
 Montevideo;1304;18;Flor de Maro地s;BDE;406;356;355;1;5;2
 Montevideo;1305;18;Flor de Maro地s;BDE;410;348;346;2;9;4
 Montevideo;1306;18;Flor de Maro地s;BDE;411;367;365;2;4;6
-Montevideo;1307;20;Pta. Rieles, Bella Italia;BDE;411;374;372;2;5;1
-Montevideo;1308;20;Pta. Rieles, Bella Italia;BDE;409;355;353;2;1;3
-Montevideo;1309;20;Pta. Rieles, Bella Italia;BDE;409;371;370;1;8;1
-Montevideo;1310;20;Pta. Rieles, Bella Italia;BDE;410;352;351;1;5;2
-Montevideo;1311;20;Pta. Rieles, Bella Italia;BDE;410;362;360;2;9;6
-Montevideo;1312;20;Pta. Rieles, Bella Italia;BDE;409;361;360;1;5;0
-Montevideo;1313;20;Pta. Rieles, Bella Italia;BDE;409;369;368;1;7;4
-Montevideo;1314;20;Pta. Rieles, Bella Italia;BDE;409;367;365;2;4;4
-Montevideo;1315;20;Pta. Rieles, Bella Italia;BDE;409;361;359;2;4;1
-Montevideo;1316;20;Pta. Rieles, Bella Italia;BDE;410;353;350;3;3;4
-Montevideo;1317;20;Pta. Rieles, Bella Italia;BDE;410;355;354;1;2;1
-Montevideo;1318;20;Pta. Rieles, Bella Italia;BDE;410;342;341;1;6;2
-Montevideo;1319;20;Pta. Rieles, Bella Italia;BDE;409;359;358;1;4;5
-Montevideo;1320;20;Pta. Rieles, Bella Italia;BDE;400;366;364;2;8;2
-Montevideo;1321;20;Pta. Rieles, Bella Italia;BDE;400;353;351;2;4;6
-Montevideo;1322;20;Pta. Rieles, Bella Italia;BDE;398;340;338;2;9;2
-Montevideo;1323;20;Pta. Rieles, Bella Italia;BDE;400;358;357;1;1;0
-Montevideo;1324;20;Pta. Rieles, Bella Italia;BDE;400;353;351;2;7;2
-Montevideo;1325;20;Pta. Rieles, Bella Italia;BDE;400;370;368;2;7;1
-Montevideo;1326;20;Pta. Rieles, Bella Italia;BDE;400;364;362;2;6;2
-Montevideo;1327;20;Pta. Rieles, Bella Italia;BDE;399;363;361;2;3;3
-Montevideo;1328;20;Pta. Rieles, Bella Italia;BDE;399;364;361;3;8;2
-Montevideo;1329;20;Pta. Rieles, Bella Italia;BDE;401;347;344;3;9;5
-Montevideo;1330;20;Pta. Rieles, Bella Italia;BDE;400;358;355;3;11;3
-Montevideo;1331;20;Pta. Rieles, Bella Italia;BDE;401;350;346;4;4;2
-Montevideo;1332;20;Pta. Rieles, Bella Italia;BDE;399;354;351;3;5;2
-Montevideo;1333;20;Pta. Rieles, Bella Italia;BDE;399;360;356;4;4;3
+Montevideo;1307;20;Pta. Rieles  Bella Italia;BDE;411;374;372;2;5;1
+Montevideo;1308;20;Pta. Rieles  Bella Italia;BDE;409;355;353;2;1;3
+Montevideo;1309;20;Pta. Rieles  Bella Italia;BDE;409;371;370;1;8;1
+Montevideo;1310;20;Pta. Rieles  Bella Italia;BDE;410;352;351;1;5;2
+Montevideo;1311;20;Pta. Rieles  Bella Italia;BDE;410;362;360;2;9;6
+Montevideo;1312;20;Pta. Rieles  Bella Italia;BDE;409;361;360;1;5;0
+Montevideo;1313;20;Pta. Rieles  Bella Italia;BDE;409;369;368;1;7;4
+Montevideo;1314;20;Pta. Rieles  Bella Italia;BDE;409;367;365;2;4;4
+Montevideo;1315;20;Pta. Rieles  Bella Italia;BDE;409;361;359;2;4;1
+Montevideo;1316;20;Pta. Rieles  Bella Italia;BDE;410;353;350;3;3;4
+Montevideo;1317;20;Pta. Rieles  Bella Italia;BDE;410;355;354;1;2;1
+Montevideo;1318;20;Pta. Rieles  Bella Italia;BDE;410;342;341;1;6;2
+Montevideo;1319;20;Pta. Rieles  Bella Italia;BDE;409;359;358;1;4;5
+Montevideo;1320;20;Pta. Rieles  Bella Italia;BDE;400;366;364;2;8;2
+Montevideo;1321;20;Pta. Rieles  Bella Italia;BDE;400;353;351;2;4;6
+Montevideo;1322;20;Pta. Rieles  Bella Italia;BDE;398;340;338;2;9;2
+Montevideo;1323;20;Pta. Rieles  Bella Italia;BDE;400;358;357;1;1;0
+Montevideo;1324;20;Pta. Rieles  Bella Italia;BDE;400;353;351;2;7;2
+Montevideo;1325;20;Pta. Rieles  Bella Italia;BDE;400;370;368;2;7;1
+Montevideo;1326;20;Pta. Rieles  Bella Italia;BDE;400;364;362;2;6;2
+Montevideo;1327;20;Pta. Rieles  Bella Italia;BDE;399;363;361;2;3;3
+Montevideo;1328;20;Pta. Rieles  Bella Italia;BDE;399;364;361;3;8;2
+Montevideo;1329;20;Pta. Rieles  Bella Italia;BDE;401;347;344;3;9;5
+Montevideo;1330;20;Pta. Rieles  Bella Italia;BDE;400;358;355;3;11;3
+Montevideo;1331;20;Pta. Rieles  Bella Italia;BDE;401;350;346;4;4;2
+Montevideo;1332;20;Pta. Rieles  Bella Italia;BDE;399;354;351;3;5;2
+Montevideo;1333;20;Pta. Rieles  Bella Italia;BDE;399;360;356;4;4;3
 Montevideo;1334;31;Piedras Blancas;BDE;400;351;347;4;6;5
 Montevideo;1335;31;Piedras Blancas;BDE;400;355;353;2;7;2
 Montevideo;1336;31;Piedras Blancas;BDE;400;360;356;4;5;3
@@ -1410,27 +1410,27 @@ Montevideo;1408;49;La Comercial;BJA;396;345;344;1;1;2
 Montevideo;1409;49;La Comercial;BJA;396;361;359;2;10;2
 Montevideo;1410;49;La Comercial;BJA;399;365;363;2;7;2
 Montevideo;1411;49;La Comercial;BJA;398;356;354;2;4;2
-Montevideo;1412;48;Villa Mu她z, Retiro;BJA;396;359;357;2;6;4
-Montevideo;1413;48;Villa Mu她z, Retiro;BJA;397;355;354;1;5;7
-Montevideo;1414;48;Villa Mu她z, Retiro;BJA;396;356;353;3;3;3
-Montevideo;1415;48;Villa Mu她z, Retiro;BJA;399;363;361;2;6;2
-Montevideo;1416;48;Villa Mu她z, Retiro;BJA;401;372;369;3;4;4
-Montevideo;1417;48;Villa Mu她z, Retiro;BJA;397;343;342;1;5;3
+Montevideo;1412;48;Villa Mu她z  Retiro;BJA;396;359;357;2;6;4
+Montevideo;1413;48;Villa Mu她z  Retiro;BJA;397;355;354;1;5;7
+Montevideo;1414;48;Villa Mu她z  Retiro;BJA;396;356;353;3;3;3
+Montevideo;1415;48;Villa Mu她z  Retiro;BJA;399;363;361;2;6;2
+Montevideo;1416;48;Villa Mu她z  Retiro;BJA;401;372;369;3;4;4
+Montevideo;1417;48;Villa Mu她z  Retiro;BJA;397;343;342;1;5;3
 Montevideo;1418;49;La Comercial;BJA;400;358;356;2;6;5
 Montevideo;1419;49;La Comercial;BJA;396;350;349;1;8;6
 Montevideo;1420;49;La Comercial;BJA;401;360;359;1;9;3
 Montevideo;1421;49;La Comercial;BJA;397;357;356;1;9;4
 Montevideo;1422;49;La Comercial;BJA;399;344;343;1;9;0
 Montevideo;1423;49;La Comercial;BJA;399;353;352;1;13;4
-Montevideo;1424;48;Villa Mu她z, Retiro;BJA;399;359;357;2;3;3
-Montevideo;1425;48;Villa Mu她z, Retiro;BJA;397;329;327;2;8;0
-Montevideo;1426;48;Villa Mu她z, Retiro;BJA;399;348;346;2;4;1
-Montevideo;1427;48;Villa Mu她z, Retiro;BJA;399;372;369;3;8;4
+Montevideo;1424;48;Villa Mu她z  Retiro;BJA;399;359;357;2;3;3
+Montevideo;1425;48;Villa Mu她z  Retiro;BJA;397;329;327;2;8;0
+Montevideo;1426;48;Villa Mu她z  Retiro;BJA;399;348;346;2;4;1
+Montevideo;1427;48;Villa Mu她z  Retiro;BJA;399;372;369;3;8;4
 Montevideo;1428;41;Aguada;BJA;399;369;367;2;10;3
 Montevideo;1429;41;Aguada;BJA;399;371;369;2;9;2
-Montevideo;1430;48;Villa Mu她z, Retiro;BJA;403;387;385;2;7;3
-Montevideo;1431;48;Villa Mu她z, Retiro;BJB;397;259;255;4;4;4
-Montevideo;1432;48;Villa Mu她z, Retiro;BJB;406;332;328;4;1;4
+Montevideo;1430;48;Villa Mu她z  Retiro;BJA;403;387;385;2;7;3
+Montevideo;1431;48;Villa Mu她z  Retiro;BJB;397;259;255;4;4;4
+Montevideo;1432;48;Villa Mu她z  Retiro;BJB;406;332;328;4;1;4
 Montevideo;1433;4;Cordon;BJB;406;345;341;4;1;5
 Montevideo;1434;4;Cordon;BJB;397;349;346;3;1;3
 Montevideo;1435;4;Cordon;BJB;397;352;349;3;4;3
@@ -1439,8 +1439,8 @@ Montevideo;1437;50;Tres Cruces;BJB;398;353;351;2;10;4
 Montevideo;1438;50;Tres Cruces;BJB;400;368;367;1;5;3
 Montevideo;1439;50;Tres Cruces;BJB;399;362;360;2;3;0
 Montevideo;1440;50;Tres Cruces;BJB;400;364;361;3;5;3
-Montevideo;1441;48;Villa Mu她z, Retiro;BJB;400;366;364;2;8;5
-Montevideo;1442;48;Villa Mu她z, Retiro;BJB;399;357;356;1;10;3
+Montevideo;1441;48;Villa Mu她z  Retiro;BJB;400;366;364;2;8;5
+Montevideo;1442;48;Villa Mu她z  Retiro;BJB;399;357;356;1;10;3
 Montevideo;1443;49;La Comercial;BJB;403;351;350;1;4;3
 Montevideo;1444;49;La Comercial;BJB;400;360;359;1;10;7
 Montevideo;1445;49;La Comercial;BJB;400;347;342;5;3;1
@@ -1450,36 +1450,36 @@ Montevideo;1448;49;La Comercial;BJB;400;362;360;2;7;4
 Montevideo;1449;50;Tres Cruces;BJB;399;353;352;1;10;2
 Montevideo;1450;50;Tres Cruces;BJB;410;395;391;4;10;9
 Montevideo;1451;50;Tres Cruces;BKA;387;260;259;1;4;6
-Montevideo;1452;48;Villa Mu她z, Retiro;BKA;387;310;308;2;2;4
-Montevideo;1453;48;Villa Mu她z, Retiro;BKA;384;329;327;2;3;4
-Montevideo;1454;48;Villa Mu她z, Retiro;BKA;391;344;342;2;6;3
-Montevideo;1455;48;Villa Mu她z, Retiro;BKA;388;348;347;1;2;4
-Montevideo;1456;48;Villa Mu她z, Retiro;BKA;392;362;361;1;5;2
-Montevideo;1457;48;Villa Mu她z, Retiro;BKA;393;354;353;1;6;7
-Montevideo;1458;48;Villa Mu她z, Retiro;BKA;389;334;333;1;10;2
-Montevideo;1459;48;Villa Mu她z, Retiro;BKA;392;351;349;2;4;0
-Montevideo;1460;48;Villa Mu她z, Retiro;BKA;391;344;342;2;3;3
+Montevideo;1452;48;Villa Mu她z  Retiro;BKA;387;310;308;2;2;4
+Montevideo;1453;48;Villa Mu她z  Retiro;BKA;384;329;327;2;3;4
+Montevideo;1454;48;Villa Mu她z  Retiro;BKA;391;344;342;2;6;3
+Montevideo;1455;48;Villa Mu她z  Retiro;BKA;388;348;347;1;2;4
+Montevideo;1456;48;Villa Mu她z  Retiro;BKA;392;362;361;1;5;2
+Montevideo;1457;48;Villa Mu她z  Retiro;BKA;393;354;353;1;6;7
+Montevideo;1458;48;Villa Mu她z  Retiro;BKA;389;334;333;1;10;2
+Montevideo;1459;48;Villa Mu她z  Retiro;BKA;392;351;349;2;4;0
+Montevideo;1460;48;Villa Mu她z  Retiro;BKA;391;344;342;2;3;3
 Montevideo;1461;41;Aguada;BKA;391;356;354;2;3;7
 Montevideo;1462;41;Aguada;BKA;390;354;352;2;9;6
 Montevideo;1463;41;Aguada;BKA;393;375;373;2;4;13
-Montevideo;1464;48;Villa Mu她z, Retiro;BKB;395;279;275;4;4;1
-Montevideo;1465;48;Villa Mu她z, Retiro;BKB;397;336;331;5;2;2
-Montevideo;1466;48;Villa Mu她z, Retiro;BKB;401;348;344;4;5;4
-Montevideo;1467;48;Villa Mu她z, Retiro;BKB;399;356;354;2;4;3
-Montevideo;1468;48;Villa Mu她z, Retiro;BKB;395;359;357;2;2;5
-Montevideo;1469;48;Villa Mu她z, Retiro;BKB;400;367;366;1;8;3
-Montevideo;1470;48;Villa Mu她z, Retiro;BKB;399;359;358;1;5;4
-Montevideo;1471;48;Villa Mu她z, Retiro;BKB;398;355;354;1;5;2
-Montevideo;1472;48;Villa Mu她z, Retiro;BKB;401;354;352;2;7;3
-Montevideo;1473;25;Mercado Modelo, Bolivar;BKB;406;376;375;1;11;6
-Montevideo;1474;25;Mercado Modelo, Bolivar;BLA;395;245;241;4;2;1
-Montevideo;1475;25;Mercado Modelo, Bolivar;BLA;400;318;314;4;3;3
-Montevideo;1476;25;Mercado Modelo, Bolivar;BLA;403;354;351;3;7;1
-Montevideo;1477;25;Mercado Modelo, Bolivar;BLA;406;351;347;4;3;3
-Montevideo;1478;25;Mercado Modelo, Bolivar;BLA;405;362;359;3;6;2
-Montevideo;1479;25;Mercado Modelo, Bolivar;BLA;410;364;363;1;2;1
-Montevideo;1480;25;Mercado Modelo, Bolivar;BLA;412;373;371;2;3;3
-Montevideo;1481;25;Mercado Modelo, Bolivar;BLA;407;367;366;1;6;6
+Montevideo;1464;48;Villa Mu她z  Retiro;BKB;395;279;275;4;4;1
+Montevideo;1465;48;Villa Mu她z  Retiro;BKB;397;336;331;5;2;2
+Montevideo;1466;48;Villa Mu她z  Retiro;BKB;401;348;344;4;5;4
+Montevideo;1467;48;Villa Mu她z  Retiro;BKB;399;356;354;2;4;3
+Montevideo;1468;48;Villa Mu她z  Retiro;BKB;395;359;357;2;2;5
+Montevideo;1469;48;Villa Mu她z  Retiro;BKB;400;367;366;1;8;3
+Montevideo;1470;48;Villa Mu她z  Retiro;BKB;399;359;358;1;5;4
+Montevideo;1471;48;Villa Mu她z  Retiro;BKB;398;355;354;1;5;2
+Montevideo;1472;48;Villa Mu她z  Retiro;BKB;401;354;352;2;7;3
+Montevideo;1473;25;Mercado Modelo  Bolivar;BKB;406;376;375;1;11;6
+Montevideo;1474;25;Mercado Modelo  Bolivar;BLA;395;245;241;4;2;1
+Montevideo;1475;25;Mercado Modelo  Bolivar;BLA;400;318;314;4;3;3
+Montevideo;1476;25;Mercado Modelo  Bolivar;BLA;403;354;351;3;7;1
+Montevideo;1477;25;Mercado Modelo  Bolivar;BLA;406;351;347;4;3;3
+Montevideo;1478;25;Mercado Modelo  Bolivar;BLA;405;362;359;3;6;2
+Montevideo;1479;25;Mercado Modelo  Bolivar;BLA;410;364;363;1;2;1
+Montevideo;1480;25;Mercado Modelo  Bolivar;BLA;412;373;371;2;3;3
+Montevideo;1481;25;Mercado Modelo  Bolivar;BLA;407;367;366;1;6;6
 Montevideo;1482;44;Jacinto Vera;BLA;406;364;363;1;3;4
 Montevideo;1483;44;Jacinto Vera;BLA;401;355;354;1;5;2
 Montevideo;1484;44;Jacinto Vera;BLA;400;356;354;2;5;5
@@ -1495,8 +1495,8 @@ Montevideo;1493;45;La Figurita;BLA;400;363;359;4;8;4
 Montevideo;1494;45;La Figurita;BLA;402;362;360;2;5;1
 Montevideo;1495;45;La Figurita;BLA;400;365;362;3;2;3
 Montevideo;1496;45;La Figurita;BLA;400;351;349;2;6;5
-Montevideo;1497;25;Mercado Modelo, Bolivar;BLA;399;359;358;1;2;3
-Montevideo;1498;25;Mercado Modelo, Bolivar;BLA;400;350;348;2;3;1
+Montevideo;1497;25;Mercado Modelo  Bolivar;BLA;399;359;358;1;2;3
+Montevideo;1498;25;Mercado Modelo  Bolivar;BLA;400;350;348;2;3;1
 Montevideo;1499;45;La Figurita;BLA;400;375;373;2;6;2
 Montevideo;1500;45;La Figurita;BLA;400;357;356;1;7;1
 Montevideo;1501;45;La Figurita;BLA;400;361;360;1;9;3
@@ -1608,9 +1608,9 @@ Montevideo;1606;44;Jacinto Vera;BMB;396;352;351;1;4;3
 Montevideo;1607;44;Jacinto Vera;BMB;396;338;335;3;6;2
 Montevideo;1608;44;Jacinto Vera;BMB;396;358;357;1;12;1
 Montevideo;1609;44;Jacinto Vera;BMB;397;350;349;1;5;1
-Montevideo;1610;39;Prado, Nueva Savona;BMB;396;354;352;2;8;4
-Montevideo;1611;39;Prado, Nueva Savona;BMB;397;365;364;1;7;5
-Montevideo;1612;39;Prado, Nueva Savona;BMB;397;373;369;4;6;1
+Montevideo;1610;39;Prado  Nueva Savona;BMB;396;354;352;2;8;4
+Montevideo;1611;39;Prado  Nueva Savona;BMB;397;365;364;1;7;5
+Montevideo;1612;39;Prado  Nueva Savona;BMB;397;373;369;4;6;1
 Montevideo;1613;29;Aires Puros;BMB;397;357;355;2;7;1
 Montevideo;1614;29;Aires Puros;BMB;397;382;379;3;10;2
 Montevideo;1615;29;Aires Puros;BMB;405;392;390;2;10;4
@@ -1639,17 +1639,17 @@ Montevideo;1637;29;Aires Puros;BNA;399;369;368;1;3;2
 Montevideo;1638;29;Aires Puros;BNA;401;371;370;1;6;0
 Montevideo;1639;29;Aires Puros;BNA;399;361;358;3;7;4
 Montevideo;1640;29;Aires Puros;BNA;397;368;367;1;6;6
-Montevideo;1641;39;Prado, Nueva Savona;BNA;399;364;362;2;6;4
-Montevideo;1642;39;Prado, Nueva Savona;BNA;400;352;350;2;2;5
-Montevideo;1643;39;Prado, Nueva Savona;BNA;399;357;355;2;7;2
-Montevideo;1644;39;Prado, Nueva Savona;BNA;400;363;362;1;4;5
-Montevideo;1645;39;Prado, Nueva Savona;BNA;401;386;385;1;7;8
-Montevideo;1646;39;Prado, Nueva Savona;BNA;400;368;366;2;11;4
-Montevideo;1647;39;Prado, Nueva Savona;BNA;400;352;351;1;8;3
-Montevideo;1648;39;Prado, Nueva Savona;BNA;400;348;345;3;6;5
-Montevideo;1649;39;Prado, Nueva Savona;BNA;401;353;351;2;7;5
-Montevideo;1650;39;Prado, Nueva Savona;BNA;402;365;364;1;5;2
-Montevideo;1651;39;Prado, Nueva Savona;BNA;400;354;353;1;4;7
+Montevideo;1641;39;Prado  Nueva Savona;BNA;399;364;362;2;6;4
+Montevideo;1642;39;Prado  Nueva Savona;BNA;400;352;350;2;2;5
+Montevideo;1643;39;Prado  Nueva Savona;BNA;399;357;355;2;7;2
+Montevideo;1644;39;Prado  Nueva Savona;BNA;400;363;362;1;4;5
+Montevideo;1645;39;Prado  Nueva Savona;BNA;401;386;385;1;7;8
+Montevideo;1646;39;Prado  Nueva Savona;BNA;400;368;366;2;11;4
+Montevideo;1647;39;Prado  Nueva Savona;BNA;400;352;351;1;8;3
+Montevideo;1648;39;Prado  Nueva Savona;BNA;400;348;345;3;6;5
+Montevideo;1649;39;Prado  Nueva Savona;BNA;401;353;351;2;7;5
+Montevideo;1650;39;Prado  Nueva Savona;BNA;402;365;364;1;5;2
+Montevideo;1651;39;Prado  Nueva Savona;BNA;400;354;353;1;4;7
 Montevideo;1652;29;Aires Puros;BNA;401;358;357;1;3;4
 Montevideo;1653;29;Aires Puros;BNA;400;362;358;4;6;4
 Montevideo;1654;29;Aires Puros;BNA;402;347;346;1;1;3
@@ -1657,12 +1657,12 @@ Montevideo;1655;29;Aires Puros;BNA;401;342;341;1;0;5
 Montevideo;1656;29;Aires Puros;BNA;399;363;361;2;8;3
 Montevideo;1657;29;Aires Puros;BNA;400;372;371;1;5;2
 Montevideo;1658;29;Aires Puros;BNA;397;357;355;2;6;2
-Montevideo;1659;39;Prado, Nueva Savona;BNA;401;369;367;2;9;2
-Montevideo;1660;39;Prado, Nueva Savona;BNA;400;347;344;3;4;5
-Montevideo;1661;39;Prado, Nueva Savona;BNA;400;348;346;2;10;3
-Montevideo;1662;39;Prado, Nueva Savona;BNA;400;361;359;2;8;4
-Montevideo;1663;39;Prado, Nueva Savona;BNA;401;371;370;1;7;6
-Montevideo;1664;39;Prado, Nueva Savona;BNA;400;356;354;2;4;10
+Montevideo;1659;39;Prado  Nueva Savona;BNA;401;369;367;2;9;2
+Montevideo;1660;39;Prado  Nueva Savona;BNA;400;347;344;3;4;5
+Montevideo;1661;39;Prado  Nueva Savona;BNA;400;348;346;2;10;3
+Montevideo;1662;39;Prado  Nueva Savona;BNA;400;361;359;2;8;4
+Montevideo;1663;39;Prado  Nueva Savona;BNA;401;371;370;1;7;6
+Montevideo;1664;39;Prado  Nueva Savona;BNA;400;356;354;2;4;10
 Montevideo;1665;27;Cerrito;BNA;400;344;343;1;3;4
 Montevideo;1666;27;Cerrito;BNA;400;372;370;2;5;2
 Montevideo;1667;27;Cerrito;BNA;400;361;360;1;6;1
@@ -1688,12 +1688,12 @@ Montevideo;1686;27;Cerrito;BNB;410;369;368;1;7;2
 Montevideo;1687;27;Cerrito;BNB;411;371;370;1;6;0
 Montevideo;1688;27;Cerrito;BNB;408;377;376;1;5;8
 Montevideo;1689;27;Cerrito;BNB;410;383;381;2;1;7
-Montevideo;1690;25;Mercado Modelo, Bolivar;BNB;406;359;358;1;4;7
-Montevideo;1691;25;Mercado Modelo, Bolivar;BNB;409;366;365;1;4;2
-Montevideo;1692;25;Mercado Modelo, Bolivar;BNB;409;367;365;2;4;3
-Montevideo;1693;25;Mercado Modelo, Bolivar;BNB;410;371;368;3;1;2
-Montevideo;1694;25;Mercado Modelo, Bolivar;BNB;412;377;374;3;7;3
-Montevideo;1695;25;Mercado Modelo, Bolivar;BNB;411;383;380;3;7;4
+Montevideo;1690;25;Mercado Modelo  Bolivar;BNB;406;359;358;1;4;7
+Montevideo;1691;25;Mercado Modelo  Bolivar;BNB;409;366;365;1;4;2
+Montevideo;1692;25;Mercado Modelo  Bolivar;BNB;409;367;365;2;4;3
+Montevideo;1693;25;Mercado Modelo  Bolivar;BNB;410;371;368;3;1;2
+Montevideo;1694;25;Mercado Modelo  Bolivar;BNB;412;377;374;3;7;3
+Montevideo;1695;25;Mercado Modelo  Bolivar;BNB;411;383;380;3;7;4
 Montevideo;1696;28;Las Acacias;BNB;409;369;365;4;2;2
 Montevideo;1697;28;Las Acacias;BNB;409;379;377;2;3;4
 Montevideo;1698;28;Las Acacias;BNB;407;368;365;3;2;8
@@ -1845,115 +1845,115 @@ Montevideo;1843;62;Manga;BOB;400;377;374;3;8;4
 Montevideo;1844;62;Manga;BOB;401;351;349;2;6;5
 Montevideo;1845;62;Manga;BOB;400;353;351;2;2;5
 Montevideo;1846;62;Manga;BOB;402;368;367;1;6;3
-Montevideo;1847;32;Manga, Toledo Chico;BOB;400;360;358;2;7;6
-Montevideo;1848;32;Manga, Toledo Chico;BOB;400;361;360;1;0;4
-Montevideo;1849;32;Manga, Toledo Chico;BOB;401;364;361;3;12;1
-Montevideo;1850;32;Manga, Toledo Chico;BOB;399;338;335;3;9;4
-Montevideo;1851;32;Manga, Toledo Chico;BOB;400;355;354;1;7;0
-Montevideo;1852;32;Manga, Toledo Chico;BOB;401;347;345;2;4;4
-Montevideo;1853;32;Manga, Toledo Chico;BOB;400;356;354;2;11;5
-Montevideo;1854;32;Manga, Toledo Chico;BOB;400;360;358;2;6;10
-Montevideo;1855;32;Manga, Toledo Chico;BOB;399;345;343;2;5;4
-Montevideo;1856;32;Manga, Toledo Chico;BOB;400;357;355;2;6;3
-Montevideo;1857;32;Manga, Toledo Chico;BOB;399;340;338;2;5;4
-Montevideo;1858;32;Manga, Toledo Chico;BOB;400;349;347;2;4;2
-Montevideo;1859;32;Manga, Toledo Chico;BOB;400;364;362;2;6;5
-Montevideo;1860;32;Manga, Toledo Chico;BOB;400;365;363;2;6;0
-Montevideo;1861;32;Manga, Toledo Chico;BOB;400;357;355;2;5;2
-Montevideo;1862;32;Manga, Toledo Chico;BOB;399;354;352;2;6;6
-Montevideo;1863;32;Manga, Toledo Chico;BOB;399;353;350;3;5;2
-Montevideo;1864;32;Manga, Toledo Chico;BOB;400;360;356;4;4;3
-Montevideo;1865;32;Manga, Toledo Chico;BOB;398;352;350;2;9;7
-Montevideo;1866;32;Manga, Toledo Chico;BOB;400;344;342;2;14;0
-Montevideo;1867;32;Manga, Toledo Chico;BOB;400;360;359;1;3;3
-Montevideo;1868;32;Manga, Toledo Chico;BOB;399;354;353;1;7;2
-Montevideo;1869;32;Manga, Toledo Chico;BOB;398;351;349;2;4;6
-Montevideo;1870;32;Manga, Toledo Chico;BOB;399;354;350;4;7;5
-Montevideo;1871;32;Manga, Toledo Chico;BOB;400;363;359;4;8;2
-Montevideo;1872;32;Manga, Toledo Chico;BOB;399;370;368;2;4;0
-Montevideo;1873;32;Manga, Toledo Chico;BOB;400;370;366;4;3;1
-Montevideo;1874;39;Prado, Nueva Savona;BOB;400;378;375;3;7;5
-Montevideo;1875;39;Prado, Nueva Savona;BOB;404;374;372;2;4;4
-Montevideo;1876;39;Prado, Nueva Savona;BPA;396;275;272;3;1;2
-Montevideo;1877;39;Prado, Nueva Savona;BPA;404;348;344;4;3;5
-Montevideo;1878;40;Capurro, Bella Vista;BPA;399;339;336;3;1;2
-Montevideo;1879;40;Capurro, Bella Vista;BPA;410;372;370;2;4;3
-Montevideo;1880;40;Capurro, Bella Vista;BPA;409;383;381;2;7;8
-Montevideo;1881;40;Capurro, Bella Vista;BPA;409;370;368;2;3;1
+Montevideo;1847;32;Manga  Toledo Chico;BOB;400;360;358;2;7;6
+Montevideo;1848;32;Manga  Toledo Chico;BOB;400;361;360;1;0;4
+Montevideo;1849;32;Manga  Toledo Chico;BOB;401;364;361;3;12;1
+Montevideo;1850;32;Manga  Toledo Chico;BOB;399;338;335;3;9;4
+Montevideo;1851;32;Manga  Toledo Chico;BOB;400;355;354;1;7;0
+Montevideo;1852;32;Manga  Toledo Chico;BOB;401;347;345;2;4;4
+Montevideo;1853;32;Manga  Toledo Chico;BOB;400;356;354;2;11;5
+Montevideo;1854;32;Manga  Toledo Chico;BOB;400;360;358;2;6;10
+Montevideo;1855;32;Manga  Toledo Chico;BOB;399;345;343;2;5;4
+Montevideo;1856;32;Manga  Toledo Chico;BOB;400;357;355;2;6;3
+Montevideo;1857;32;Manga  Toledo Chico;BOB;399;340;338;2;5;4
+Montevideo;1858;32;Manga  Toledo Chico;BOB;400;349;347;2;4;2
+Montevideo;1859;32;Manga  Toledo Chico;BOB;400;364;362;2;6;5
+Montevideo;1860;32;Manga  Toledo Chico;BOB;400;365;363;2;6;0
+Montevideo;1861;32;Manga  Toledo Chico;BOB;400;357;355;2;5;2
+Montevideo;1862;32;Manga  Toledo Chico;BOB;399;354;352;2;6;6
+Montevideo;1863;32;Manga  Toledo Chico;BOB;399;353;350;3;5;2
+Montevideo;1864;32;Manga  Toledo Chico;BOB;400;360;356;4;4;3
+Montevideo;1865;32;Manga  Toledo Chico;BOB;398;352;350;2;9;7
+Montevideo;1866;32;Manga  Toledo Chico;BOB;400;344;342;2;14;0
+Montevideo;1867;32;Manga  Toledo Chico;BOB;400;360;359;1;3;3
+Montevideo;1868;32;Manga  Toledo Chico;BOB;399;354;353;1;7;2
+Montevideo;1869;32;Manga  Toledo Chico;BOB;398;351;349;2;4;6
+Montevideo;1870;32;Manga  Toledo Chico;BOB;399;354;350;4;7;5
+Montevideo;1871;32;Manga  Toledo Chico;BOB;400;363;359;4;8;2
+Montevideo;1872;32;Manga  Toledo Chico;BOB;399;370;368;2;4;0
+Montevideo;1873;32;Manga  Toledo Chico;BOB;400;370;366;4;3;1
+Montevideo;1874;39;Prado  Nueva Savona;BOB;400;378;375;3;7;5
+Montevideo;1875;39;Prado  Nueva Savona;BOB;404;374;372;2;4;4
+Montevideo;1876;39;Prado  Nueva Savona;BPA;396;275;272;3;1;2
+Montevideo;1877;39;Prado  Nueva Savona;BPA;404;348;344;4;3;5
+Montevideo;1878;40;Capurro  Bella Vista;BPA;399;339;336;3;1;2
+Montevideo;1879;40;Capurro  Bella Vista;BPA;410;372;370;2;4;3
+Montevideo;1880;40;Capurro  Bella Vista;BPA;409;383;381;2;7;8
+Montevideo;1881;40;Capurro  Bella Vista;BPA;409;370;368;2;3;1
 Montevideo;1882;54;Belvedere;BPA;408;374;371;3;5;2
 Montevideo;1883;54;Belvedere;BPA;412;374;372;2;8;3
-Montevideo;1884;40;Capurro, Bella Vista;BPA;409;376;375;1;4;9
-Montevideo;1885;40;Capurro, Bella Vista;BPA;409;382;381;1;4;2
-Montevideo;1886;40;Capurro, Bella Vista;BPA;411;373;369;4;4;6
-Montevideo;1887;40;Capurro, Bella Vista;BPA;410;369;367;2;4;5
-Montevideo;1888;40;Capurro, Bella Vista;BPA;411;374;371;3;4;4
-Montevideo;1889;40;Capurro, Bella Vista;BPA;410;367;362;5;8;6
-Montevideo;1890;40;Capurro, Bella Vista;BPA;401;361;359;2;9;1
-Montevideo;1891;40;Capurro, Bella Vista;BPA;400;364;363;1;8;5
-Montevideo;1892;40;Capurro, Bella Vista;BPA;400;366;363;3;10;0
-Montevideo;1893;40;Capurro, Bella Vista;BPA;399;357;355;2;3;6
-Montevideo;1894;40;Capurro, Bella Vista;BPA;400;369;368;1;5;4
-Montevideo;1895;40;Capurro, Bella Vista;BPA;400;364;363;1;4;3
-Montevideo;1896;40;Capurro, Bella Vista;BPA;408;383;381;2;3;2
-Montevideo;1897;40;Capurro, Bella Vista;BPB;388;249;245;4;2;1
-Montevideo;1898;40;Capurro, Bella Vista;BPB;381;326;322;4;1;1
-Montevideo;1899;40;Capurro, Bella Vista;BPB;388;338;334;4;4;5
-Montevideo;1900;40;Capurro, Bella Vista;BPB;386;337;334;3;7;3
-Montevideo;1901;40;Capurro, Bella Vista;BPB;385;351;350;1;4;6
-Montevideo;1902;40;Capurro, Bella Vista;BPB;388;344;342;2;4;3
-Montevideo;1903;40;Capurro, Bella Vista;BPB;386;359;356;3;2;6
-Montevideo;1904;40;Capurro, Bella Vista;BPB;390;350;349;1;8;3
-Montevideo;1905;40;Capurro, Bella Vista;BPB;389;347;344;3;3;1
-Montevideo;1906;40;Capurro, Bella Vista;BPB;385;337;335;2;6;1
-Montevideo;1907;39;Prado, Nueva Savona;BPB;387;351;350;1;9;2
-Montevideo;1908;39;Prado, Nueva Savona;BPB;387;348;347;1;9;5
-Montevideo;1909;39;Prado, Nueva Savona;BPB;386;361;360;1;6;2
-Montevideo;1910;39;Prado, Nueva Savona;BPB;390;374;372;2;7;4
-Montevideo;1911;39;Prado, Nueva Savona;BQA;401;273;269;4;6;1
-Montevideo;1912;39;Prado, Nueva Savona;BQA;400;336;333;3;7;4
-Montevideo;1913;39;Prado, Nueva Savona;BQA;408;363;359;4;5;2
-Montevideo;1914;39;Prado, Nueva Savona;BQA;407;374;372;2;2;5
-Montevideo;1915;39;Prado, Nueva Savona;BQA;409;369;365;4;5;2
-Montevideo;1916;39;Prado, Nueva Savona;BQA;409;389;386;3;1;3
-Montevideo;1917;39;Prado, Nueva Savona;BQA;410;376;374;2;4;3
-Montevideo;1918;39;Prado, Nueva Savona;BQA;409;381;380;1;2;7
-Montevideo;1919;39;Prado, Nueva Savona;BQA;407;370;368;2;8;6
-Montevideo;1920;39;Prado, Nueva Savona;BQA;410;380;379;1;3;6
-Montevideo;1921;39;Prado, Nueva Savona;BQA;409;379;373;6;6;1
-Montevideo;1922;39;Prado, Nueva Savona;BQA;411;379;377;2;8;5
-Montevideo;1923;39;Prado, Nueva Savona;BQA;409;355;354;1;3;5
-Montevideo;1924;39;Prado, Nueva Savona;BQA;412;376;375;1;1;3
-Montevideo;1925;39;Prado, Nueva Savona;BQA;411;366;365;1;3;3
-Montevideo;1926;39;Prado, Nueva Savona;BQA;400;370;368;2;3;3
-Montevideo;1927;39;Prado, Nueva Savona;BQA;400;350;349;1;4;2
-Montevideo;1928;39;Prado, Nueva Savona;BQA;399;363;362;1;3;4
-Montevideo;1929;39;Prado, Nueva Savona;BQA;400;351;350;1;5;2
-Montevideo;1930;39;Prado, Nueva Savona;BQA;400;356;355;1;3;0
-Montevideo;1931;39;Prado, Nueva Savona;BQA;399;354;352;2;8;3
-Montevideo;1932;39;Prado, Nueva Savona;BQA;400;366;365;1;10;5
-Montevideo;1933;40;Capurro, Bella Vista;BQA;400;364;362;2;10;2
-Montevideo;1934;40;Capurro, Bella Vista;BQA;400;363;360;3;7;1
-Montevideo;1935;40;Capurro, Bella Vista;BQA;400;374;372;2;10;0
-Montevideo;1936;40;Capurro, Bella Vista;BQA;402;387;385;2;6;5
-Montevideo;1937;40;Capurro, Bella Vista;BQB;400;270;263;7;2;3
-Montevideo;1938;40;Capurro, Bella Vista;BQB;403;345;341;4;4;6
-Montevideo;1939;40;Capurro, Bella Vista;BQB;395;343;342;1;2;3
-Montevideo;1940;40;Capurro, Bella Vista;BQB;395;355;353;2;6;3
-Montevideo;1941;40;Capurro, Bella Vista;BQB;397;358;356;2;4;1
-Montevideo;1942;40;Capurro, Bella Vista;BQB;393;361;360;1;5;4
-Montevideo;1943;40;Capurro, Bella Vista;BQB;394;362;361;1;5;2
-Montevideo;1944;40;Capurro, Bella Vista;BQB;396;362;361;1;7;3
-Montevideo;1945;40;Capurro, Bella Vista;BQB;396;358;357;1;7;6
-Montevideo;1946;40;Capurro, Bella Vista;BQB;397;372;371;1;5;5
-Montevideo;1947;40;Capurro, Bella Vista;BQB;395;359;357;2;5;3
-Montevideo;1948;40;Capurro, Bella Vista;BQB;398;354;353;1;5;2
-Montevideo;1949;40;Capurro, Bella Vista;BQB;398;362;361;1;3;5
+Montevideo;1884;40;Capurro  Bella Vista;BPA;409;376;375;1;4;9
+Montevideo;1885;40;Capurro  Bella Vista;BPA;409;382;381;1;4;2
+Montevideo;1886;40;Capurro  Bella Vista;BPA;411;373;369;4;4;6
+Montevideo;1887;40;Capurro  Bella Vista;BPA;410;369;367;2;4;5
+Montevideo;1888;40;Capurro  Bella Vista;BPA;411;374;371;3;4;4
+Montevideo;1889;40;Capurro  Bella Vista;BPA;410;367;362;5;8;6
+Montevideo;1890;40;Capurro  Bella Vista;BPA;401;361;359;2;9;1
+Montevideo;1891;40;Capurro  Bella Vista;BPA;400;364;363;1;8;5
+Montevideo;1892;40;Capurro  Bella Vista;BPA;400;366;363;3;10;0
+Montevideo;1893;40;Capurro  Bella Vista;BPA;399;357;355;2;3;6
+Montevideo;1894;40;Capurro  Bella Vista;BPA;400;369;368;1;5;4
+Montevideo;1895;40;Capurro  Bella Vista;BPA;400;364;363;1;4;3
+Montevideo;1896;40;Capurro  Bella Vista;BPA;408;383;381;2;3;2
+Montevideo;1897;40;Capurro  Bella Vista;BPB;388;249;245;4;2;1
+Montevideo;1898;40;Capurro  Bella Vista;BPB;381;326;322;4;1;1
+Montevideo;1899;40;Capurro  Bella Vista;BPB;388;338;334;4;4;5
+Montevideo;1900;40;Capurro  Bella Vista;BPB;386;337;334;3;7;3
+Montevideo;1901;40;Capurro  Bella Vista;BPB;385;351;350;1;4;6
+Montevideo;1902;40;Capurro  Bella Vista;BPB;388;344;342;2;4;3
+Montevideo;1903;40;Capurro  Bella Vista;BPB;386;359;356;3;2;6
+Montevideo;1904;40;Capurro  Bella Vista;BPB;390;350;349;1;8;3
+Montevideo;1905;40;Capurro  Bella Vista;BPB;389;347;344;3;3;1
+Montevideo;1906;40;Capurro  Bella Vista;BPB;385;337;335;2;6;1
+Montevideo;1907;39;Prado  Nueva Savona;BPB;387;351;350;1;9;2
+Montevideo;1908;39;Prado  Nueva Savona;BPB;387;348;347;1;9;5
+Montevideo;1909;39;Prado  Nueva Savona;BPB;386;361;360;1;6;2
+Montevideo;1910;39;Prado  Nueva Savona;BPB;390;374;372;2;7;4
+Montevideo;1911;39;Prado  Nueva Savona;BQA;401;273;269;4;6;1
+Montevideo;1912;39;Prado  Nueva Savona;BQA;400;336;333;3;7;4
+Montevideo;1913;39;Prado  Nueva Savona;BQA;408;363;359;4;5;2
+Montevideo;1914;39;Prado  Nueva Savona;BQA;407;374;372;2;2;5
+Montevideo;1915;39;Prado  Nueva Savona;BQA;409;369;365;4;5;2
+Montevideo;1916;39;Prado  Nueva Savona;BQA;409;389;386;3;1;3
+Montevideo;1917;39;Prado  Nueva Savona;BQA;410;376;374;2;4;3
+Montevideo;1918;39;Prado  Nueva Savona;BQA;409;381;380;1;2;7
+Montevideo;1919;39;Prado  Nueva Savona;BQA;407;370;368;2;8;6
+Montevideo;1920;39;Prado  Nueva Savona;BQA;410;380;379;1;3;6
+Montevideo;1921;39;Prado  Nueva Savona;BQA;409;379;373;6;6;1
+Montevideo;1922;39;Prado  Nueva Savona;BQA;411;379;377;2;8;5
+Montevideo;1923;39;Prado  Nueva Savona;BQA;409;355;354;1;3;5
+Montevideo;1924;39;Prado  Nueva Savona;BQA;412;376;375;1;1;3
+Montevideo;1925;39;Prado  Nueva Savona;BQA;411;366;365;1;3;3
+Montevideo;1926;39;Prado  Nueva Savona;BQA;400;370;368;2;3;3
+Montevideo;1927;39;Prado  Nueva Savona;BQA;400;350;349;1;4;2
+Montevideo;1928;39;Prado  Nueva Savona;BQA;399;363;362;1;3;4
+Montevideo;1929;39;Prado  Nueva Savona;BQA;400;351;350;1;5;2
+Montevideo;1930;39;Prado  Nueva Savona;BQA;400;356;355;1;3;0
+Montevideo;1931;39;Prado  Nueva Savona;BQA;399;354;352;2;8;3
+Montevideo;1932;39;Prado  Nueva Savona;BQA;400;366;365;1;10;5
+Montevideo;1933;40;Capurro  Bella Vista;BQA;400;364;362;2;10;2
+Montevideo;1934;40;Capurro  Bella Vista;BQA;400;363;360;3;7;1
+Montevideo;1935;40;Capurro  Bella Vista;BQA;400;374;372;2;10;0
+Montevideo;1936;40;Capurro  Bella Vista;BQA;402;387;385;2;6;5
+Montevideo;1937;40;Capurro  Bella Vista;BQB;400;270;263;7;2;3
+Montevideo;1938;40;Capurro  Bella Vista;BQB;403;345;341;4;4;6
+Montevideo;1939;40;Capurro  Bella Vista;BQB;395;343;342;1;2;3
+Montevideo;1940;40;Capurro  Bella Vista;BQB;395;355;353;2;6;3
+Montevideo;1941;40;Capurro  Bella Vista;BQB;397;358;356;2;4;1
+Montevideo;1942;40;Capurro  Bella Vista;BQB;393;361;360;1;5;4
+Montevideo;1943;40;Capurro  Bella Vista;BQB;394;362;361;1;5;2
+Montevideo;1944;40;Capurro  Bella Vista;BQB;396;362;361;1;7;3
+Montevideo;1945;40;Capurro  Bella Vista;BQB;396;358;357;1;7;6
+Montevideo;1946;40;Capurro  Bella Vista;BQB;397;372;371;1;5;5
+Montevideo;1947;40;Capurro  Bella Vista;BQB;395;359;357;2;5;3
+Montevideo;1948;40;Capurro  Bella Vista;BQB;398;354;353;1;5;2
+Montevideo;1949;40;Capurro  Bella Vista;BQB;398;362;361;1;3;5
 Montevideo;1950;42;Reducto;BQB;397;356;354;2;3;3
 Montevideo;1951;42;Reducto;BQB;398;357;355;2;2;5
 Montevideo;1952;42;Reducto;BQB;398;358;357;1;9;3
 Montevideo;1953;43;Atahualpa;BQB;397;347;345;2;5;5
 Montevideo;1954;43;Atahualpa;BQB;396;356;354;2;7;5
-Montevideo;1955;58;Colon Sureste, Abayuba;BQB;397;346;344;2;6;3
+Montevideo;1955;58;Colon Sureste  Abayuba;BQB;397;346;344;2;6;3
 Montevideo;1956;53;Conciliacion;BQB;396;377;375;2;6;2
 Montevideo;1957;53;Conciliacion;BQB;397;364;363;1;4;4
 Montevideo;1958;53;Conciliacion;BQB;397;369;367;2;7;4
@@ -1972,88 +1972,88 @@ Montevideo;1970;59;Colon Centro y Noroeste;BRA;409;374;372;2;7;1
 Montevideo;1971;59;Colon Centro y Noroeste;BRA;410;388;385;3;2;5
 Montevideo;1972;59;Colon Centro y Noroeste;BRA;410;389;387;2;5;3
 Montevideo;1973;59;Colon Centro y Noroeste;BRA;407;360;359;1;6;3
-Montevideo;1974;60;Lezica, Melilla;BRA;408;371;370;1;1;4
-Montevideo;1975;60;Lezica, Melilla;BRA;410;376;374;2;4;12
-Montevideo;1976;60;Lezica, Melilla;BRA;408;377;375;2;5;2
-Montevideo;1977;60;Lezica, Melilla;BRA;409;378;376;2;7;3
-Montevideo;1978;60;Lezica, Melilla;BRA;411;389;386;3;7;7
-Montevideo;1979;60;Lezica, Melilla;BRA;408;378;376;2;4;0
-Montevideo;1980;60;Lezica, Melilla;BRA;410;377;376;1;11;3
-Montevideo;1981;60;Lezica, Melilla;BRA;407;367;366;1;3;10
-Montevideo;1982;60;Lezica, Melilla;BRA;411;380;378;2;3;3
-Montevideo;1983;60;Lezica, Melilla;BRA;410;382;381;1;5;6
-Montevideo;1984;58;Colon Sureste, Abayuba;BRA;409;388;387;1;4;2
-Montevideo;1985;58;Colon Sureste, Abayuba;BRA;408;375;373;2;9;4
-Montevideo;1986;58;Colon Sureste, Abayuba;BRA;410;383;381;2;7;5
-Montevideo;1987;58;Colon Sureste, Abayuba;BRA;410;376;375;1;2;6
-Montevideo;1988;58;Colon Sureste, Abayuba;BRA;410;377;376;1;10;5
-Montevideo;1989;58;Colon Sureste, Abayuba;BRA;400;374;373;1;5;1
+Montevideo;1974;60;Lezica  Melilla;BRA;408;371;370;1;1;4
+Montevideo;1975;60;Lezica  Melilla;BRA;410;376;374;2;4;12
+Montevideo;1976;60;Lezica  Melilla;BRA;408;377;375;2;5;2
+Montevideo;1977;60;Lezica  Melilla;BRA;409;378;376;2;7;3
+Montevideo;1978;60;Lezica  Melilla;BRA;411;389;386;3;7;7
+Montevideo;1979;60;Lezica  Melilla;BRA;408;378;376;2;4;0
+Montevideo;1980;60;Lezica  Melilla;BRA;410;377;376;1;11;3
+Montevideo;1981;60;Lezica  Melilla;BRA;407;367;366;1;3;10
+Montevideo;1982;60;Lezica  Melilla;BRA;411;380;378;2;3;3
+Montevideo;1983;60;Lezica  Melilla;BRA;410;382;381;1;5;6
+Montevideo;1984;58;Colon Sureste  Abayuba;BRA;409;388;387;1;4;2
+Montevideo;1985;58;Colon Sureste  Abayuba;BRA;408;375;373;2;9;4
+Montevideo;1986;58;Colon Sureste  Abayuba;BRA;410;383;381;2;7;5
+Montevideo;1987;58;Colon Sureste  Abayuba;BRA;410;376;375;1;2;6
+Montevideo;1988;58;Colon Sureste  Abayuba;BRA;410;377;376;1;10;5
+Montevideo;1989;58;Colon Sureste  Abayuba;BRA;400;374;373;1;5;1
 Montevideo;1990;59;Colon Centro y Noroeste;BRA;400;365;363;2;5;0
 Montevideo;1991;59;Colon Centro y Noroeste;BRA;401;376;373;3;8;6
 Montevideo;1992;59;Colon Centro y Noroeste;BRA;399;358;357;1;1;2
 Montevideo;1993;59;Colon Centro y Noroeste;BRA;400;355;354;1;6;7
 Montevideo;1994;59;Colon Centro y Noroeste;BRA;402;367;366;1;5;5
 Montevideo;1995;59;Colon Centro y Noroeste;BRA;403;367;366;1;3;4
-Montevideo;1996;60;Lezica, Melilla;BRA;401;361;360;1;3;4
-Montevideo;1997;60;Lezica, Melilla;BRA;401;366;365;1;7;3
-Montevideo;1998;60;Lezica, Melilla;BRA;401;363;361;2;1;5
-Montevideo;1999;60;Lezica, Melilla;BRA;400;370;369;1;4;8
-Montevideo;2000;60;Lezica, Melilla;BRA;401;364;363;1;5;1
-Montevideo;2001;60;Lezica, Melilla;BRA;400;370;369;1;1;2
-Montevideo;2002;60;Lezica, Melilla;BRA;400;361;360;1;8;2
-Montevideo;2003;60;Lezica, Melilla;BRA;401;358;357;1;5;2
-Montevideo;2004;60;Lezica, Melilla;BRA;401;367;366;1;5;6
-Montevideo;2005;60;Lezica, Melilla;BRA;399;359;357;2;10;5
-Montevideo;2006;60;Lezica, Melilla;BRA;400;364;363;1;4;6
-Montevideo;2007;60;Lezica, Melilla;BRA;399;363;361;2;2;4
-Montevideo;2008;60;Lezica, Melilla;BRA;399;362;360;2;3;0
-Montevideo;2009;60;Lezica, Melilla;BRA;399;366;364;2;7;5
-Montevideo;2010;60;Lezica, Melilla;BRA;400;346;344;2;7;1
-Montevideo;2011;60;Lezica, Melilla;BRA;400;360;358;2;7;1
-Montevideo;2012;60;Lezica, Melilla;BRA;399;367;365;2;2;2
-Montevideo;2013;60;Lezica, Melilla;BRA;400;365;363;2;3;2
-Montevideo;2014;60;Lezica, Melilla;BRA;399;363;360;3;7;3
-Montevideo;2015;60;Lezica, Melilla;BRA;399;368;366;2;4;3
-Montevideo;2016;60;Lezica, Melilla;BRA;400;376;374;2;9;6
-Montevideo;2017;60;Lezica, Melilla;BRA;400;372;368;4;2;3
-Montevideo;2018;60;Lezica, Melilla;BRA;399;368;365;3;13;0
-Montevideo;2019;60;Lezica, Melilla;BRA;400;373;369;4;5;0
-Montevideo;2020;60;Lezica, Melilla;BRA;400;370;366;4;4;5
-Montevideo;2021;60;Lezica, Melilla;BRA;400;359;356;3;3;2
-Montevideo;2022;60;Lezica, Melilla;BRA;400;364;362;2;4;1
-Montevideo;2023;60;Lezica, Melilla;BRA;400;383;381;2;14;2
-Montevideo;2024;60;Lezica, Melilla;BRA;400;363;361;2;5;1
-Montevideo;2025;60;Lezica, Melilla;BRA;400;375;371;4;10;7
-Montevideo;2026;60;Lezica, Melilla;BRA;400;374;370;4;7;2
-Montevideo;2027;60;Lezica, Melilla;BRA;399;377;374;3;5;0
-Montevideo;2028;60;Lezica, Melilla;BRA;400;379;377;2;6;4
+Montevideo;1996;60;Lezica  Melilla;BRA;401;361;360;1;3;4
+Montevideo;1997;60;Lezica  Melilla;BRA;401;366;365;1;7;3
+Montevideo;1998;60;Lezica  Melilla;BRA;401;363;361;2;1;5
+Montevideo;1999;60;Lezica  Melilla;BRA;400;370;369;1;4;8
+Montevideo;2000;60;Lezica  Melilla;BRA;401;364;363;1;5;1
+Montevideo;2001;60;Lezica  Melilla;BRA;400;370;369;1;1;2
+Montevideo;2002;60;Lezica  Melilla;BRA;400;361;360;1;8;2
+Montevideo;2003;60;Lezica  Melilla;BRA;401;358;357;1;5;2
+Montevideo;2004;60;Lezica  Melilla;BRA;401;367;366;1;5;6
+Montevideo;2005;60;Lezica  Melilla;BRA;399;359;357;2;10;5
+Montevideo;2006;60;Lezica  Melilla;BRA;400;364;363;1;4;6
+Montevideo;2007;60;Lezica  Melilla;BRA;399;363;361;2;2;4
+Montevideo;2008;60;Lezica  Melilla;BRA;399;362;360;2;3;0
+Montevideo;2009;60;Lezica  Melilla;BRA;399;366;364;2;7;5
+Montevideo;2010;60;Lezica  Melilla;BRA;400;346;344;2;7;1
+Montevideo;2011;60;Lezica  Melilla;BRA;400;360;358;2;7;1
+Montevideo;2012;60;Lezica  Melilla;BRA;399;367;365;2;2;2
+Montevideo;2013;60;Lezica  Melilla;BRA;400;365;363;2;3;2
+Montevideo;2014;60;Lezica  Melilla;BRA;399;363;360;3;7;3
+Montevideo;2015;60;Lezica  Melilla;BRA;399;368;366;2;4;3
+Montevideo;2016;60;Lezica  Melilla;BRA;400;376;374;2;9;6
+Montevideo;2017;60;Lezica  Melilla;BRA;400;372;368;4;2;3
+Montevideo;2018;60;Lezica  Melilla;BRA;399;368;365;3;13;0
+Montevideo;2019;60;Lezica  Melilla;BRA;400;373;369;4;5;0
+Montevideo;2020;60;Lezica  Melilla;BRA;400;370;366;4;4;5
+Montevideo;2021;60;Lezica  Melilla;BRA;400;359;356;3;3;2
+Montevideo;2022;60;Lezica  Melilla;BRA;400;364;362;2;4;1
+Montevideo;2023;60;Lezica  Melilla;BRA;400;383;381;2;14;2
+Montevideo;2024;60;Lezica  Melilla;BRA;400;363;361;2;5;1
+Montevideo;2025;60;Lezica  Melilla;BRA;400;375;371;4;10;7
+Montevideo;2026;60;Lezica  Melilla;BRA;400;374;370;4;7;2
+Montevideo;2027;60;Lezica  Melilla;BRA;399;377;374;3;5;0
+Montevideo;2028;60;Lezica  Melilla;BRA;400;379;377;2;6;4
 Montevideo;2029;59;Colon Centro y Noroeste;BRA;402;382;378;4;7;4
-Montevideo;2030;34;Pe地rol, Lavalleja;BRA;399;376;374;2;6;4
-Montevideo;2031;34;Pe地rol, Lavalleja;BRA;402;376;373;3;8;3
-Montevideo;2032;34;Pe地rol, Lavalleja;BRB;390;303;300;3;3;6
-Montevideo;2033;34;Pe地rol, Lavalleja;BRB;396;351;349;2;6;1
-Montevideo;2034;34;Pe地rol, Lavalleja;BRB;393;360;358;2;3;4
-Montevideo;2035;34;Pe地rol, Lavalleja;BRB;393;361;359;2;9;4
-Montevideo;2036;34;Pe地rol, Lavalleja;BRB;394;369;367;2;9;3
-Montevideo;2037;34;Pe地rol, Lavalleja;BRB;395;368;367;1;1;4
-Montevideo;2038;34;Pe地rol, Lavalleja;BRB;395;366;363;3;11;4
-Montevideo;2039;34;Pe地rol, Lavalleja;BRB;393;361;360;1;7;2
-Montevideo;2040;34;Pe地rol, Lavalleja;BRB;393;359;354;5;6;10
-Montevideo;2041;34;Pe地rol, Lavalleja;BRB;397;352;350;2;6;5
-Montevideo;2042;34;Pe地rol, Lavalleja;BRB;395;372;369;3;5;3
-Montevideo;2043;34;Pe地rol, Lavalleja;BRB;395;355;354;1;8;1
-Montevideo;2044;34;Pe地rol, Lavalleja;BRB;396;359;358;1;9;3
-Montevideo;2045;40;Capurro, Bella Vista;BRB;392;356;355;1;5;4
-Montevideo;2046;40;Capurro, Bella Vista;BRB;395;356;355;1;7;5
-Montevideo;2047;40;Capurro, Bella Vista;BRB;396;354;353;1;15;9
-Montevideo;2048;40;Capurro, Bella Vista;BRB;395;356;355;1;5;3
-Montevideo;2049;40;Capurro, Bella Vista;BRB;394;362;360;2;6;3
-Montevideo;2050;40;Capurro, Bella Vista;BRB;394;365;363;2;6;3
-Montevideo;2051;40;Capurro, Bella Vista;BRB;394;355;352;3;1;3
-Montevideo;2052;40;Capurro, Bella Vista;BRB;395;371;369;2;7;3
-Montevideo;2053;58;Colon Sureste, Abayuba;BRB;395;376;373;3;4;4
-Montevideo;2054;58;Colon Sureste, Abayuba;BRB;401;393;391;2;7;6
-Montevideo;2055;58;Colon Sureste, Abayuba;BRC;274;267;263;4;7;4
+Montevideo;2030;34;Pe地rol  Lavalleja;BRA;399;376;374;2;6;4
+Montevideo;2031;34;Pe地rol  Lavalleja;BRA;402;376;373;3;8;3
+Montevideo;2032;34;Pe地rol  Lavalleja;BRB;390;303;300;3;3;6
+Montevideo;2033;34;Pe地rol  Lavalleja;BRB;396;351;349;2;6;1
+Montevideo;2034;34;Pe地rol  Lavalleja;BRB;393;360;358;2;3;4
+Montevideo;2035;34;Pe地rol  Lavalleja;BRB;393;361;359;2;9;4
+Montevideo;2036;34;Pe地rol  Lavalleja;BRB;394;369;367;2;9;3
+Montevideo;2037;34;Pe地rol  Lavalleja;BRB;395;368;367;1;1;4
+Montevideo;2038;34;Pe地rol  Lavalleja;BRB;395;366;363;3;11;4
+Montevideo;2039;34;Pe地rol  Lavalleja;BRB;393;361;360;1;7;2
+Montevideo;2040;34;Pe地rol  Lavalleja;BRB;393;359;354;5;6;10
+Montevideo;2041;34;Pe地rol  Lavalleja;BRB;397;352;350;2;6;5
+Montevideo;2042;34;Pe地rol  Lavalleja;BRB;395;372;369;3;5;3
+Montevideo;2043;34;Pe地rol  Lavalleja;BRB;395;355;354;1;8;1
+Montevideo;2044;34;Pe地rol  Lavalleja;BRB;396;359;358;1;9;3
+Montevideo;2045;40;Capurro  Bella Vista;BRB;392;356;355;1;5;4
+Montevideo;2046;40;Capurro  Bella Vista;BRB;395;356;355;1;7;5
+Montevideo;2047;40;Capurro  Bella Vista;BRB;396;354;353;1;15;9
+Montevideo;2048;40;Capurro  Bella Vista;BRB;395;356;355;1;5;3
+Montevideo;2049;40;Capurro  Bella Vista;BRB;394;362;360;2;6;3
+Montevideo;2050;40;Capurro  Bella Vista;BRB;394;365;363;2;6;3
+Montevideo;2051;40;Capurro  Bella Vista;BRB;394;355;352;3;1;3
+Montevideo;2052;40;Capurro  Bella Vista;BRB;395;371;369;2;7;3
+Montevideo;2053;58;Colon Sureste  Abayuba;BRB;395;376;373;3;4;4
+Montevideo;2054;58;Colon Sureste  Abayuba;BRB;401;393;391;2;7;6
+Montevideo;2055;58;Colon Sureste  Abayuba;BRC;274;267;263;4;7;4
 Montevideo;2056;35;Cerro;BRC;274;250;246;4;4;2
 Montevideo;2057;35;Cerro;BRC;274;256;252;4;4;0
 Montevideo;2058;35;Cerro;BSA;386;247;246;1;5;0
@@ -2098,9 +2098,9 @@ Montevideo;2096;35;Cerro;BTA;401;362;361;1;6;4
 Montevideo;2097;35;Cerro;BTA;401;370;367;3;7;4
 Montevideo;2098;35;Cerro;BTA;398;373;370;3;6;6
 Montevideo;2099;35;Cerro;BTA;399;357;354;3;6;2
-Montevideo;2100;37;La Paloma, Tomkinson;BTA;400;374;371;3;7;6
-Montevideo;2101;37;La Paloma, Tomkinson;BTA;399;366;365;1;6;3
-Montevideo;2102;37;La Paloma, Tomkinson;BTA;400;362;359;3;4;4
+Montevideo;2100;37;La Paloma  Tomkinson;BTA;400;374;371;3;7;6
+Montevideo;2101;37;La Paloma  Tomkinson;BTA;399;366;365;1;6;3
+Montevideo;2102;37;La Paloma  Tomkinson;BTA;400;362;359;3;4;4
 Montevideo;2103;38;La Teja;BTA;399;357;355;2;8;2
 Montevideo;2104;38;La Teja;BTA;398;364;363;1;6;6
 Montevideo;2105;35;Cerro;BTA;399;372;370;2;3;9
@@ -2112,40 +2112,40 @@ Montevideo;2110;35;Cerro;BTA;400;366;365;1;3;3
 Montevideo;2111;35;Cerro;BTA;400;371;369;2;3;4
 Montevideo;2112;35;Cerro;BTA;399;372;370;2;3;1
 Montevideo;2113;35;Cerro;BTA;400;367;366;1;7;1
-Montevideo;2114;37;La Paloma, Tomkinson;BTA;400;373;372;1;6;1
-Montevideo;2115;37;La Paloma, Tomkinson;BTA;400;358;357;1;7;6
-Montevideo;2116;37;La Paloma, Tomkinson;BTA;399;371;367;4;7;2
-Montevideo;2117;37;La Paloma, Tomkinson;BTA;400;353;350;3;4;5
-Montevideo;2118;37;La Paloma, Tomkinson;BTA;401;361;359;2;10;8
-Montevideo;2119;37;La Paloma, Tomkinson;BTA;400;364;363;1;11;2
-Montevideo;2120;37;La Paloma, Tomkinson;BTA;399;356;354;2;6;3
-Montevideo;2121;37;La Paloma, Tomkinson;BTA;399;379;377;2;7;3
-Montevideo;2122;37;La Paloma, Tomkinson;BTA;401;365;362;3;6;2
-Montevideo;2123;37;La Paloma, Tomkinson;BTA;400;371;369;2;4;7
-Montevideo;2124;37;La Paloma, Tomkinson;BTA;400;366;365;1;7;2
-Montevideo;2125;37;La Paloma, Tomkinson;BTA;398;360;358;2;4;2
-Montevideo;2126;37;La Paloma, Tomkinson;BTA;400;363;362;1;6;5
-Montevideo;2127;37;La Paloma, Tomkinson;BTA;400;379;377;2;4;0
-Montevideo;2128;37;La Paloma, Tomkinson;BTA;399;361;360;1;6;4
-Montevideo;2129;37;La Paloma, Tomkinson;BTA;401;368;365;3;8;4
-Montevideo;2130;37;La Paloma, Tomkinson;BTA;400;359;357;2;10;2
-Montevideo;2131;37;La Paloma, Tomkinson;BTA;400;373;371;2;6;2
-Montevideo;2132;37;La Paloma, Tomkinson;BTA;401;374;372;2;11;1
-Montevideo;2133;37;La Paloma, Tomkinson;BTA;400;362;360;2;5;3
-Montevideo;2134;37;La Paloma, Tomkinson;BTA;399;354;352;2;3;4
-Montevideo;2135;37;La Paloma, Tomkinson;BTA;399;345;343;2;2;0
-Montevideo;2136;37;La Paloma, Tomkinson;BTA;399;345;343;2;9;4
-Montevideo;2137;37;La Paloma, Tomkinson;BTA;399;347;345;2;9;2
-Montevideo;2138;37;La Paloma, Tomkinson;BTA;400;366;364;2;0;1
-Montevideo;2139;37;La Paloma, Tomkinson;BTA;400;355;353;2;3;5
-Montevideo;2140;37;La Paloma, Tomkinson;BTA;399;364;361;3;5;6
-Montevideo;2141;37;La Paloma, Tomkinson;BTA;400;371;368;3;2;3
-Montevideo;2142;37;La Paloma, Tomkinson;BTA;400;358;356;2;7;4
-Montevideo;2143;37;La Paloma, Tomkinson;BTA;400;357;354;3;3;3
-Montevideo;2144;37;La Paloma, Tomkinson;BTA;397;373;369;4;7;2
-Montevideo;2145;37;La Paloma, Tomkinson;BTA;400;367;363;4;2;4
-Montevideo;2146;37;La Paloma, Tomkinson;BTA;400;353;349;4;5;2
-Montevideo;2147;37;La Paloma, Tomkinson;BTA;400;351;349;2;7;2
+Montevideo;2114;37;La Paloma  Tomkinson;BTA;400;373;372;1;6;1
+Montevideo;2115;37;La Paloma  Tomkinson;BTA;400;358;357;1;7;6
+Montevideo;2116;37;La Paloma  Tomkinson;BTA;399;371;367;4;7;2
+Montevideo;2117;37;La Paloma  Tomkinson;BTA;400;353;350;3;4;5
+Montevideo;2118;37;La Paloma  Tomkinson;BTA;401;361;359;2;10;8
+Montevideo;2119;37;La Paloma  Tomkinson;BTA;400;364;363;1;11;2
+Montevideo;2120;37;La Paloma  Tomkinson;BTA;399;356;354;2;6;3
+Montevideo;2121;37;La Paloma  Tomkinson;BTA;399;379;377;2;7;3
+Montevideo;2122;37;La Paloma  Tomkinson;BTA;401;365;362;3;6;2
+Montevideo;2123;37;La Paloma  Tomkinson;BTA;400;371;369;2;4;7
+Montevideo;2124;37;La Paloma  Tomkinson;BTA;400;366;365;1;7;2
+Montevideo;2125;37;La Paloma  Tomkinson;BTA;398;360;358;2;4;2
+Montevideo;2126;37;La Paloma  Tomkinson;BTA;400;363;362;1;6;5
+Montevideo;2127;37;La Paloma  Tomkinson;BTA;400;379;377;2;4;0
+Montevideo;2128;37;La Paloma  Tomkinson;BTA;399;361;360;1;6;4
+Montevideo;2129;37;La Paloma  Tomkinson;BTA;401;368;365;3;8;4
+Montevideo;2130;37;La Paloma  Tomkinson;BTA;400;359;357;2;10;2
+Montevideo;2131;37;La Paloma  Tomkinson;BTA;400;373;371;2;6;2
+Montevideo;2132;37;La Paloma  Tomkinson;BTA;401;374;372;2;11;1
+Montevideo;2133;37;La Paloma  Tomkinson;BTA;400;362;360;2;5;3
+Montevideo;2134;37;La Paloma  Tomkinson;BTA;399;354;352;2;3;4
+Montevideo;2135;37;La Paloma  Tomkinson;BTA;399;345;343;2;2;0
+Montevideo;2136;37;La Paloma  Tomkinson;BTA;399;345;343;2;9;4
+Montevideo;2137;37;La Paloma  Tomkinson;BTA;399;347;345;2;9;2
+Montevideo;2138;37;La Paloma  Tomkinson;BTA;400;366;364;2;0;1
+Montevideo;2139;37;La Paloma  Tomkinson;BTA;400;355;353;2;3;5
+Montevideo;2140;37;La Paloma  Tomkinson;BTA;399;364;361;3;5;6
+Montevideo;2141;37;La Paloma  Tomkinson;BTA;400;371;368;3;2;3
+Montevideo;2142;37;La Paloma  Tomkinson;BTA;400;358;356;2;7;4
+Montevideo;2143;37;La Paloma  Tomkinson;BTA;400;357;354;3;3;3
+Montevideo;2144;37;La Paloma  Tomkinson;BTA;397;373;369;4;7;2
+Montevideo;2145;37;La Paloma  Tomkinson;BTA;400;367;363;4;2;4
+Montevideo;2146;37;La Paloma  Tomkinson;BTA;400;353;349;4;5;2
+Montevideo;2147;37;La Paloma  Tomkinson;BTA;400;351;349;2;7;2
 Montevideo;2148;55;Nuevo Paris;BTA;399;358;356;2;7;2
 Montevideo;2149;55;Nuevo Paris;BTA;400;367;364;3;5;3
 Montevideo;2150;55;Nuevo Paris;BTA;400;369;366;3;7;2
@@ -2167,8 +2167,8 @@ Montevideo;2165;35;Cerro;BTB;408;363;360;3;3;4
 Montevideo;2166;35;Cerro;BTB;407;365;363;2;3;4
 Montevideo;2167;35;Cerro;BTB;407;383;382;1;2;5
 Montevideo;2168;35;Cerro;BTB;408;383;380;3;5;8
-Montevideo;2169;56;Tres Ombues, Victoria;BTB;407;363;362;1;9;8
-Montevideo;2170;56;Tres Ombues, Victoria;BTB;407;370;369;1;3;4
+Montevideo;2169;56;Tres Ombues  Victoria;BTB;407;363;362;1;9;8
+Montevideo;2170;56;Tres Ombues  Victoria;BTB;407;370;369;1;3;4
 Montevideo;2171;35;Cerro;BTB;408;362;359;3;5;2
 Montevideo;2172;35;Cerro;BTB;407;385;381;4;8;4
 Montevideo;2173;35;Cerro;BTB;408;379;377;2;12;5
@@ -2208,66 +2208,66 @@ Montevideo;2206;35;Cerro;BTB;400;363;362;1;3;4
 Montevideo;2207;35;Cerro;BTB;400;355;354;1;5;2
 Montevideo;2208;35;Cerro;BTB;400;349;347;2;7;2
 Montevideo;2209;35;Cerro;BTB;399;361;359;2;5;0
-Montevideo;2210;36;Casabo, Pajas Blancas;BTB;400;347;344;3;6;3
-Montevideo;2211;36;Casabo, Pajas Blancas;BTB;400;369;366;3;3;2
-Montevideo;2212;36;Casabo, Pajas Blancas;BTB;400;356;355;1;11;2
-Montevideo;2213;36;Casabo, Pajas Blancas;BTB;399;354;353;1;10;4
-Montevideo;2214;36;Casabo, Pajas Blancas;BTB;399;370;368;2;8;3
-Montevideo;2215;36;Casabo, Pajas Blancas;BTB;400;363;360;3;3;4
-Montevideo;2216;36;Casabo, Pajas Blancas;BTB;399;362;360;2;7;1
-Montevideo;2217;36;Casabo, Pajas Blancas;BTB;399;357;355;2;6;3
-Montevideo;2218;36;Casabo, Pajas Blancas;BTB;399;367;363;4;5;3
-Montevideo;2219;36;Casabo, Pajas Blancas;BTB;400;357;353;4;7;2
-Montevideo;2220;36;Casabo, Pajas Blancas;BTB;400;362;359;3;10;8
-Montevideo;2221;36;Casabo, Pajas Blancas;BTB;400;371;368;3;7;3
-Montevideo;2222;36;Casabo, Pajas Blancas;BTB;398;370;366;4;4;8
-Montevideo;2223;36;Casabo, Pajas Blancas;BTB;400;376;374;2;3;2
-Montevideo;2224;36;Casabo, Pajas Blancas;BTB;400;358;354;4;12;3
-Montevideo;2225;36;Casabo, Pajas Blancas;BTB;401;383;379;4;5;3
-Montevideo;2226;36;Casabo, Pajas Blancas;BTC;400;361;359;2;4;4
-Montevideo;2227;36;Casabo, Pajas Blancas;BTC;399;366;364;2;5;5
-Montevideo;2228;36;Casabo, Pajas Blancas;BTC;397;371;369;2;7;2
-Montevideo;2229;36;Casabo, Pajas Blancas;BTD;267;251;249;2;4;1
-Montevideo;2230;36;Casabo, Pajas Blancas;BTD;268;259;255;4;9;1
-Montevideo;2231;36;Casabo, Pajas Blancas;BUA;393;250;246;4;3;1
-Montevideo;2232;36;Casabo, Pajas Blancas;BUA;390;317;315;2;5;2
-Montevideo;2233;36;Casabo, Pajas Blancas;BUA;392;337;334;3;1;5
-Montevideo;2234;36;Casabo, Pajas Blancas;BUA;395;340;339;1;2;4
-Montevideo;2235;36;Casabo, Pajas Blancas;BUA;395;358;357;1;1;4
-Montevideo;2236;36;Casabo, Pajas Blancas;BUA;395;365;364;1;8;1
-Montevideo;2237;36;Casabo, Pajas Blancas;BUA;392;359;357;2;4;2
-Montevideo;2238;39;Prado, Nueva Savona;BUA;394;368;367;1;6;2
-Montevideo;2239;39;Prado, Nueva Savona;BUA;397;363;359;4;2;2
-Montevideo;2240;39;Prado, Nueva Savona;BUA;394;355;353;2;13;3
-Montevideo;2241;39;Prado, Nueva Savona;BUA;396;349;348;1;5;8
-Montevideo;2242;39;Prado, Nueva Savona;BUA;397;362;361;1;8;2
-Montevideo;2243;39;Prado, Nueva Savona;BUA;397;357;355;2;9;3
-Montevideo;2244;39;Prado, Nueva Savona;BUA;396;368;366;2;7;3
-Montevideo;2245;40;Capurro, Bella Vista;BUA;396;355;354;1;4;4
-Montevideo;2246;40;Capurro, Bella Vista;BUA;395;357;355;2;4;3
-Montevideo;2247;40;Capurro, Bella Vista;BUA;396;365;363;2;1;1
-Montevideo;2248;40;Capurro, Bella Vista;BUA;396;349;347;2;6;4
-Montevideo;2249;40;Capurro, Bella Vista;BUA;394;364;362;2;8;5
-Montevideo;2250;40;Capurro, Bella Vista;BUA;396;362;357;5;5;5
-Montevideo;2251;40;Capurro, Bella Vista;BUA;396;376;374;2;6;4
-Montevideo;2252;40;Capurro, Bella Vista;BUA;405;390;388;2;10;3
-Montevideo;2253;40;Capurro, Bella Vista;BUB;400;254;250;4;2;4
-Montevideo;2254;40;Capurro, Bella Vista;BUB;404;320;315;5;5;5
-Montevideo;2255;40;Capurro, Bella Vista;BUB;404;337;333;4;8;6
-Montevideo;2256;40;Capurro, Bella Vista;BUB;405;353;352;1;3;5
-Montevideo;2257;40;Capurro, Bella Vista;BUB;394;334;331;3;5;3
-Montevideo;2258;40;Capurro, Bella Vista;BUB;399;356;354;2;5;9
-Montevideo;2259;56;Tres Ombues, Victoria;BUB;398;351;347;4;6;3
-Montevideo;2260;56;Tres Ombues, Victoria;BUB;399;363;360;3;11;6
-Montevideo;2261;56;Tres Ombues, Victoria;BUB;401;371;370;1;6;2
-Montevideo;2262;56;Tres Ombues, Victoria;BUB;396;370;368;2;3;5
-Montevideo;2263;56;Tres Ombues, Victoria;BUB;400;376;374;2;10;5
-Montevideo;2264;56;Tres Ombues, Victoria;BUB;399;367;366;1;4;3
-Montevideo;2265;56;Tres Ombues, Victoria;BUB;397;363;361;2;4;4
-Montevideo;2266;56;Tres Ombues, Victoria;BUB;402;371;370;1;7;0
-Montevideo;2267;56;Tres Ombues, Victoria;BUB;399;359;355;4;5;4
-Montevideo;2268;56;Tres Ombues, Victoria;BUB;401;361;358;3;0;1
-Montevideo;2269;56;Tres Ombues, Victoria;BUB;400;363;361;2;3;2
+Montevideo;2210;36;Casabo  Pajas Blancas;BTB;400;347;344;3;6;3
+Montevideo;2211;36;Casabo  Pajas Blancas;BTB;400;369;366;3;3;2
+Montevideo;2212;36;Casabo  Pajas Blancas;BTB;400;356;355;1;11;2
+Montevideo;2213;36;Casabo  Pajas Blancas;BTB;399;354;353;1;10;4
+Montevideo;2214;36;Casabo  Pajas Blancas;BTB;399;370;368;2;8;3
+Montevideo;2215;36;Casabo  Pajas Blancas;BTB;400;363;360;3;3;4
+Montevideo;2216;36;Casabo  Pajas Blancas;BTB;399;362;360;2;7;1
+Montevideo;2217;36;Casabo  Pajas Blancas;BTB;399;357;355;2;6;3
+Montevideo;2218;36;Casabo  Pajas Blancas;BTB;399;367;363;4;5;3
+Montevideo;2219;36;Casabo  Pajas Blancas;BTB;400;357;353;4;7;2
+Montevideo;2220;36;Casabo  Pajas Blancas;BTB;400;362;359;3;10;8
+Montevideo;2221;36;Casabo  Pajas Blancas;BTB;400;371;368;3;7;3
+Montevideo;2222;36;Casabo  Pajas Blancas;BTB;398;370;366;4;4;8
+Montevideo;2223;36;Casabo  Pajas Blancas;BTB;400;376;374;2;3;2
+Montevideo;2224;36;Casabo  Pajas Blancas;BTB;400;358;354;4;12;3
+Montevideo;2225;36;Casabo  Pajas Blancas;BTB;401;383;379;4;5;3
+Montevideo;2226;36;Casabo  Pajas Blancas;BTC;400;361;359;2;4;4
+Montevideo;2227;36;Casabo  Pajas Blancas;BTC;399;366;364;2;5;5
+Montevideo;2228;36;Casabo  Pajas Blancas;BTC;397;371;369;2;7;2
+Montevideo;2229;36;Casabo  Pajas Blancas;BTD;267;251;249;2;4;1
+Montevideo;2230;36;Casabo  Pajas Blancas;BTD;268;259;255;4;9;1
+Montevideo;2231;36;Casabo  Pajas Blancas;BUA;393;250;246;4;3;1
+Montevideo;2232;36;Casabo  Pajas Blancas;BUA;390;317;315;2;5;2
+Montevideo;2233;36;Casabo  Pajas Blancas;BUA;392;337;334;3;1;5
+Montevideo;2234;36;Casabo  Pajas Blancas;BUA;395;340;339;1;2;4
+Montevideo;2235;36;Casabo  Pajas Blancas;BUA;395;358;357;1;1;4
+Montevideo;2236;36;Casabo  Pajas Blancas;BUA;395;365;364;1;8;1
+Montevideo;2237;36;Casabo  Pajas Blancas;BUA;392;359;357;2;4;2
+Montevideo;2238;39;Prado  Nueva Savona;BUA;394;368;367;1;6;2
+Montevideo;2239;39;Prado  Nueva Savona;BUA;397;363;359;4;2;2
+Montevideo;2240;39;Prado  Nueva Savona;BUA;394;355;353;2;13;3
+Montevideo;2241;39;Prado  Nueva Savona;BUA;396;349;348;1;5;8
+Montevideo;2242;39;Prado  Nueva Savona;BUA;397;362;361;1;8;2
+Montevideo;2243;39;Prado  Nueva Savona;BUA;397;357;355;2;9;3
+Montevideo;2244;39;Prado  Nueva Savona;BUA;396;368;366;2;7;3
+Montevideo;2245;40;Capurro  Bella Vista;BUA;396;355;354;1;4;4
+Montevideo;2246;40;Capurro  Bella Vista;BUA;395;357;355;2;4;3
+Montevideo;2247;40;Capurro  Bella Vista;BUA;396;365;363;2;1;1
+Montevideo;2248;40;Capurro  Bella Vista;BUA;396;349;347;2;6;4
+Montevideo;2249;40;Capurro  Bella Vista;BUA;394;364;362;2;8;5
+Montevideo;2250;40;Capurro  Bella Vista;BUA;396;362;357;5;5;5
+Montevideo;2251;40;Capurro  Bella Vista;BUA;396;376;374;2;6;4
+Montevideo;2252;40;Capurro  Bella Vista;BUA;405;390;388;2;10;3
+Montevideo;2253;40;Capurro  Bella Vista;BUB;400;254;250;4;2;4
+Montevideo;2254;40;Capurro  Bella Vista;BUB;404;320;315;5;5;5
+Montevideo;2255;40;Capurro  Bella Vista;BUB;404;337;333;4;8;6
+Montevideo;2256;40;Capurro  Bella Vista;BUB;405;353;352;1;3;5
+Montevideo;2257;40;Capurro  Bella Vista;BUB;394;334;331;3;5;3
+Montevideo;2258;40;Capurro  Bella Vista;BUB;399;356;354;2;5;9
+Montevideo;2259;56;Tres Ombues  Victoria;BUB;398;351;347;4;6;3
+Montevideo;2260;56;Tres Ombues  Victoria;BUB;399;363;360;3;11;6
+Montevideo;2261;56;Tres Ombues  Victoria;BUB;401;371;370;1;6;2
+Montevideo;2262;56;Tres Ombues  Victoria;BUB;396;370;368;2;3;5
+Montevideo;2263;56;Tres Ombues  Victoria;BUB;400;376;374;2;10;5
+Montevideo;2264;56;Tres Ombues  Victoria;BUB;399;367;366;1;4;3
+Montevideo;2265;56;Tres Ombues  Victoria;BUB;397;363;361;2;4;4
+Montevideo;2266;56;Tres Ombues  Victoria;BUB;402;371;370;1;7;0
+Montevideo;2267;56;Tres Ombues  Victoria;BUB;399;359;355;4;5;4
+Montevideo;2268;56;Tres Ombues  Victoria;BUB;401;361;358;3;0;1
+Montevideo;2269;56;Tres Ombues  Victoria;BUB;400;363;361;2;3;2
 Montevideo;2270;38;La Teja;BUB;400;369;367;2;7;6
 Montevideo;2271;38;La Teja;BUB;402;363;362;1;8;4
 Montevideo;2272;38;La Teja;BUB;399;352;351;1;2;6
@@ -2280,12 +2280,12 @@ Montevideo;2278;54;Belvedere;BUB;399;365;364;1;6;4
 Montevideo;2279;54;Belvedere;BUB;400;377;375;2;4;2
 Montevideo;2280;54;Belvedere;BUB;399;362;361;1;3;3
 Montevideo;2281;54;Belvedere;BUB;400;376;375;1;9;5
-Montevideo;2282;40;Capurro, Bella Vista;BUB;402;390;387;3;8;9
-Montevideo;2283;40;Capurro, Bella Vista;BVA;396;219;217;2;2;2
-Montevideo;2284;40;Capurro, Bella Vista;BVA;402;292;288;4;5;2
-Montevideo;2285;40;Capurro, Bella Vista;BVA;403;324;320;4;5;1
-Montevideo;2286;40;Capurro, Bella Vista;BVA;408;345;342;3;4;5
-Montevideo;2287;40;Capurro, Bella Vista;BVA;406;342;339;3;4;9
+Montevideo;2282;40;Capurro  Bella Vista;BUB;402;390;387;3;8;9
+Montevideo;2283;40;Capurro  Bella Vista;BVA;396;219;217;2;2;2
+Montevideo;2284;40;Capurro  Bella Vista;BVA;402;292;288;4;5;2
+Montevideo;2285;40;Capurro  Bella Vista;BVA;403;324;320;4;5;1
+Montevideo;2286;40;Capurro  Bella Vista;BVA;408;345;342;3;4;5
+Montevideo;2287;40;Capurro  Bella Vista;BVA;406;342;339;3;4;9
 Montevideo;2288;54;Belvedere;BVA;403;346;342;4;5;2
 Montevideo;2289;54;Belvedere;BVA;407;352;348;4;6;3
 Montevideo;2290;54;Belvedere;BVA;394;356;355;1;3;5
@@ -2337,18 +2337,18 @@ Montevideo;2335;38;La Teja;BVB;404;231;227;4;4;4
 Montevideo;2336;38;La Teja;BVB;401;306;302;4;6;3
 Montevideo;2337;38;La Teja;BVB;405;332;328;4;3;3
 Montevideo;2338;38;La Teja;BVB;408;353;349;4;6;3
-Montevideo;2339;39;Prado, Nueva Savona;BVB;409;355;351;4;4;5
-Montevideo;2340;39;Prado, Nueva Savona;BVB;407;345;341;4;4;1
-Montevideo;2341;39;Prado, Nueva Savona;BVB;410;368;364;4;4;2
-Montevideo;2342;39;Prado, Nueva Savona;BVB;409;369;366;3;4;4
-Montevideo;2343;39;Prado, Nueva Savona;BVB;408;358;354;4;1;5
-Montevideo;2344;39;Prado, Nueva Savona;BVB;411;356;354;2;7;1
-Montevideo;2345;39;Prado, Nueva Savona;BVB;407;366;365;1;8;4
-Montevideo;2346;39;Prado, Nueva Savona;BVB;409;375;372;3;6;2
-Montevideo;2347;39;Prado, Nueva Savona;BVB;410;373;371;2;4;3
-Montevideo;2348;39;Prado, Nueva Savona;BVB;409;372;371;1;8;2
-Montevideo;2349;39;Prado, Nueva Savona;BVB;410;374;372;2;3;6
-Montevideo;2350;39;Prado, Nueva Savona;BVB;396;361;359;2;6;3
+Montevideo;2339;39;Prado  Nueva Savona;BVB;409;355;351;4;4;5
+Montevideo;2340;39;Prado  Nueva Savona;BVB;407;345;341;4;4;1
+Montevideo;2341;39;Prado  Nueva Savona;BVB;410;368;364;4;4;2
+Montevideo;2342;39;Prado  Nueva Savona;BVB;409;369;366;3;4;4
+Montevideo;2343;39;Prado  Nueva Savona;BVB;408;358;354;4;1;5
+Montevideo;2344;39;Prado  Nueva Savona;BVB;411;356;354;2;7;1
+Montevideo;2345;39;Prado  Nueva Savona;BVB;407;366;365;1;8;4
+Montevideo;2346;39;Prado  Nueva Savona;BVB;409;375;372;3;6;2
+Montevideo;2347;39;Prado  Nueva Savona;BVB;410;373;371;2;4;3
+Montevideo;2348;39;Prado  Nueva Savona;BVB;409;372;371;1;8;2
+Montevideo;2349;39;Prado  Nueva Savona;BVB;410;374;372;2;3;6
+Montevideo;2350;39;Prado  Nueva Savona;BVB;396;361;359;2;6;3
 Montevideo;2351;55;Nuevo Paris;BVB;402;377;375;2;10;10
 Montevideo;2352;55;Nuevo Paris;BVB;397;368;366;2;6;2
 Montevideo;2353;55;Nuevo Paris;BVB;395;343;341;2;2;7
@@ -2359,8 +2359,8 @@ Montevideo;2357;55;Nuevo Paris;BVB;399;364;361;3;3;3
 Montevideo;2358;55;Nuevo Paris;BVB;402;371;370;1;6;4
 Montevideo;2359;55;Nuevo Paris;BVB;401;363;362;1;6;4
 Montevideo;2360;55;Nuevo Paris;BVB;401;357;356;1;4;2
-Montevideo;2361;39;Prado, Nueva Savona;BVB;398;353;351;2;3;4
-Montevideo;2362;39;Prado, Nueva Savona;BVB;403;367;365;2;9;6
+Montevideo;2361;39;Prado  Nueva Savona;BVB;398;353;351;2;3;4
+Montevideo;2362;39;Prado  Nueva Savona;BVB;403;367;365;2;9;6
 Montevideo;2363;54;Belvedere;BVB;402;361;360;1;13;0
 Montevideo;2364;54;Belvedere;BVB;399;358;355;3;5;5
 Montevideo;2365;54;Belvedere;BVB;399;361;358;3;5;1
@@ -2406,15 +2406,15 @@ Montevideo;2404;57;Paso de la Arena;BVC;409;376;373;3;5;5
 Montevideo;2405;57;Paso de la Arena;BVC;409;380;378;2;4;4
 Montevideo;2406;57;Paso de la Arena;BVC;410;368;364;4;4;3
 Montevideo;2407;57;Paso de la Arena;BVC;400;365;363;2;4;1
-Montevideo;2408;37;La Paloma, Tomkinson;BVC;399;369;365;4;2;8
-Montevideo;2409;37;La Paloma, Tomkinson;BVC;400;372;369;3;4;5
-Montevideo;2410;37;La Paloma, Tomkinson;BVC;400;382;378;4;4;1
-Montevideo;2411;37;La Paloma, Tomkinson;BVC;405;387;383;4;7;1
-Montevideo;2412;37;La Paloma, Tomkinson;BXA;381;321;316;5;2;1
-Montevideo;2413;37;La Paloma, Tomkinson;BXA;383;351;350;1;2;4
-Montevideo;2414;37;La Paloma, Tomkinson;BXA;384;348;347;1;9;3
-Montevideo;2415;37;La Paloma, Tomkinson;BXA;385;352;351;1;2;3
-Montevideo;2416;37;La Paloma, Tomkinson;BXA;383;359;358;1;9;7
+Montevideo;2408;37;La Paloma  Tomkinson;BVC;399;369;365;4;2;8
+Montevideo;2409;37;La Paloma  Tomkinson;BVC;400;372;369;3;4;5
+Montevideo;2410;37;La Paloma  Tomkinson;BVC;400;382;378;4;4;1
+Montevideo;2411;37;La Paloma  Tomkinson;BVC;405;387;383;4;7;1
+Montevideo;2412;37;La Paloma  Tomkinson;BXA;381;321;316;5;2;1
+Montevideo;2413;37;La Paloma  Tomkinson;BXA;383;351;350;1;2;4
+Montevideo;2414;37;La Paloma  Tomkinson;BXA;384;348;347;1;9;3
+Montevideo;2415;37;La Paloma  Tomkinson;BXA;385;352;351;1;2;3
+Montevideo;2416;37;La Paloma  Tomkinson;BXA;383;359;358;1;9;7
 Montevideo;2417;57;Paso de la Arena;BXB;403;299;295;4;8;5
 Montevideo;2418;57;Paso de la Arena;BXB;406;362;358;4;4;1
 Montevideo;2419;57;Paso de la Arena;BXB;409;362;359;3;2;4
@@ -2476,11 +2476,11 @@ Montevideo;2474;52;Sayago;BZA;400;369;368;1;7;7
 Montevideo;2475;52;Sayago;BZA;399;377;374;3;6;9
 Montevideo;2476;52;Sayago;BZA;401;366;362;4;6;2
 Montevideo;2477;52;Sayago;BZA;400;357;355;2;5;2
-Montevideo;2478;34;Pe地rol, Lavalleja;BZA;400;373;371;2;8;6
-Montevideo;2479;34;Pe地rol, Lavalleja;BZA;400;363;360;3;3;3
-Montevideo;2480;34;Pe地rol, Lavalleja;BZA;399;367;366;1;9;2
-Montevideo;2481;34;Pe地rol, Lavalleja;BZA;400;351;349;2;6;2
-Montevideo;2482;34;Pe地rol, Lavalleja;BZA;399;357;355;2;7;4
+Montevideo;2478;34;Pe地rol  Lavalleja;BZA;400;373;371;2;8;6
+Montevideo;2479;34;Pe地rol  Lavalleja;BZA;400;363;360;3;3;3
+Montevideo;2480;34;Pe地rol  Lavalleja;BZA;399;367;366;1;9;2
+Montevideo;2481;34;Pe地rol  Lavalleja;BZA;400;351;349;2;6;2
+Montevideo;2482;34;Pe地rol  Lavalleja;BZA;399;357;355;2;7;4
 Montevideo;2483;55;Nuevo Paris;BZA;401;353;351;2;5;3
 Montevideo;2484;55;Nuevo Paris;BZA;400;368;365;3;3;3
 Montevideo;2485;55;Nuevo Paris;BZA;397;358;357;1;8;2
@@ -2506,57 +2506,57 @@ Montevideo;2504;53;Conciliacion;BZB;402;310;306;4;4;2
 Montevideo;2505;53;Conciliacion;BZB;405;321;317;4;6;2
 Montevideo;2506;53;Conciliacion;BZB;395;339;335;4;5;9
 Montevideo;2507;53;Conciliacion;BZB;396;329;326;3;3;2
-Montevideo;2508;34;Pe地rol, Lavalleja;BZB;398;332;329;3;4;0
-Montevideo;2509;34;Pe地rol, Lavalleja;BZB;397;332;329;3;2;5
-Montevideo;2510;34;Pe地rol, Lavalleja;BZB;398;343;341;2;3;4
-Montevideo;2511;34;Pe地rol, Lavalleja;BZB;398;361;356;5;4;5
-Montevideo;2512;34;Pe地rol, Lavalleja;BZB;397;355;352;3;6;4
-Montevideo;2513;34;Pe地rol, Lavalleja;BZB;397;354;351;3;4;4
-Montevideo;2514;34;Pe地rol, Lavalleja;BZB;400;359;356;3;3;4
-Montevideo;2515;34;Pe地rol, Lavalleja;BZB;399;350;349;1;4;4
-Montevideo;2516;34;Pe地rol, Lavalleja;BZB;399;354;353;1;6;0
-Montevideo;2517;34;Pe地rol, Lavalleja;BZB;397;367;365;2;3;2
-Montevideo;2518;34;Pe地rol, Lavalleja;BZB;397;370;369;1;6;7
-Montevideo;2519;34;Pe地rol, Lavalleja;BZB;398;377;375;2;6;5
-Montevideo;2520;34;Pe地rol, Lavalleja;BZB;400;360;359;1;6;2
-Montevideo;2521;34;Pe地rol, Lavalleja;BZB;393;355;353;2;2;3
-Montevideo;2522;34;Pe地rol, Lavalleja;BZB;399;371;368;3;7;4
-Montevideo;2523;34;Pe地rol, Lavalleja;BZB;395;356;352;4;8;1
-Montevideo;2524;34;Pe地rol, Lavalleja;BZB;400;347;344;3;2;2
-Montevideo;2525;34;Pe地rol, Lavalleja;BZB;398;374;372;2;4;3
-Montevideo;2526;34;Pe地rol, Lavalleja;BZB;400;370;367;3;14;3
-Montevideo;2527;34;Pe地rol, Lavalleja;BZB;397;361;358;3;6;2
-Montevideo;2528;34;Pe地rol, Lavalleja;BZB;399;372;371;1;7;2
-Montevideo;2529;34;Pe地rol, Lavalleja;BZB;400;363;362;1;5;2
-Montevideo;2530;34;Pe地rol, Lavalleja;BZB;399;369;368;1;5;4
-Montevideo;2531;34;Pe地rol, Lavalleja;BZB;400;367;360;7;3;1
-Montevideo;2532;34;Pe地rol, Lavalleja;BZB;399;368;363;5;1;6
-Montevideo;2533;34;Pe地rol, Lavalleja;BZB;401;355;354;1;6;5
-Montevideo;2534;34;Pe地rol, Lavalleja;BZB;401;374;373;1;6;2
-Montevideo;2535;34;Pe地rol, Lavalleja;BZB;397;368;367;1;8;3
-Montevideo;2536;34;Pe地rol, Lavalleja;BZB;400;375;373;2;7;5
-Montevideo;2537;34;Pe地rol, Lavalleja;BZB;400;366;365;1;2;5
-Montevideo;2538;34;Pe地rol, Lavalleja;BZB;404;365;364;1;7;4
-Montevideo;2539;34;Pe地rol, Lavalleja;BZB;402;378;377;1;2;4
-Montevideo;2540;34;Pe地rol, Lavalleja;BZB;401;365;363;2;4;4
-Montevideo;2541;34;Pe地rol, Lavalleja;BZB;403;356;355;1;4;7
+Montevideo;2508;34;Pe地rol  Lavalleja;BZB;398;332;329;3;4;0
+Montevideo;2509;34;Pe地rol  Lavalleja;BZB;397;332;329;3;2;5
+Montevideo;2510;34;Pe地rol  Lavalleja;BZB;398;343;341;2;3;4
+Montevideo;2511;34;Pe地rol  Lavalleja;BZB;398;361;356;5;4;5
+Montevideo;2512;34;Pe地rol  Lavalleja;BZB;397;355;352;3;6;4
+Montevideo;2513;34;Pe地rol  Lavalleja;BZB;397;354;351;3;4;4
+Montevideo;2514;34;Pe地rol  Lavalleja;BZB;400;359;356;3;3;4
+Montevideo;2515;34;Pe地rol  Lavalleja;BZB;399;350;349;1;4;4
+Montevideo;2516;34;Pe地rol  Lavalleja;BZB;399;354;353;1;6;0
+Montevideo;2517;34;Pe地rol  Lavalleja;BZB;397;367;365;2;3;2
+Montevideo;2518;34;Pe地rol  Lavalleja;BZB;397;370;369;1;6;7
+Montevideo;2519;34;Pe地rol  Lavalleja;BZB;398;377;375;2;6;5
+Montevideo;2520;34;Pe地rol  Lavalleja;BZB;400;360;359;1;6;2
+Montevideo;2521;34;Pe地rol  Lavalleja;BZB;393;355;353;2;2;3
+Montevideo;2522;34;Pe地rol  Lavalleja;BZB;399;371;368;3;7;4
+Montevideo;2523;34;Pe地rol  Lavalleja;BZB;395;356;352;4;8;1
+Montevideo;2524;34;Pe地rol  Lavalleja;BZB;400;347;344;3;2;2
+Montevideo;2525;34;Pe地rol  Lavalleja;BZB;398;374;372;2;4;3
+Montevideo;2526;34;Pe地rol  Lavalleja;BZB;400;370;367;3;14;3
+Montevideo;2527;34;Pe地rol  Lavalleja;BZB;397;361;358;3;6;2
+Montevideo;2528;34;Pe地rol  Lavalleja;BZB;399;372;371;1;7;2
+Montevideo;2529;34;Pe地rol  Lavalleja;BZB;400;363;362;1;5;2
+Montevideo;2530;34;Pe地rol  Lavalleja;BZB;399;369;368;1;5;4
+Montevideo;2531;34;Pe地rol  Lavalleja;BZB;400;367;360;7;3;1
+Montevideo;2532;34;Pe地rol  Lavalleja;BZB;399;368;363;5;1;6
+Montevideo;2533;34;Pe地rol  Lavalleja;BZB;401;355;354;1;6;5
+Montevideo;2534;34;Pe地rol  Lavalleja;BZB;401;374;373;1;6;2
+Montevideo;2535;34;Pe地rol  Lavalleja;BZB;397;368;367;1;8;3
+Montevideo;2536;34;Pe地rol  Lavalleja;BZB;400;375;373;2;7;5
+Montevideo;2537;34;Pe地rol  Lavalleja;BZB;400;366;365;1;2;5
+Montevideo;2538;34;Pe地rol  Lavalleja;BZB;404;365;364;1;7;4
+Montevideo;2539;34;Pe地rol  Lavalleja;BZB;402;378;377;1;2;4
+Montevideo;2540;34;Pe地rol  Lavalleja;BZB;401;365;363;2;4;4
+Montevideo;2541;34;Pe地rol  Lavalleja;BZB;403;356;355;1;4;7
 Montevideo;2542;28;Las Acacias;BZB;400;370;368;2;2;0
 Montevideo;2543;28;Las Acacias;BZB;399;364;363;1;5;3
-Montevideo;2544;34;Pe地rol, Lavalleja;BZB;400;364;363;1;5;2
-Montevideo;2545;34;Pe地rol, Lavalleja;BZB;401;350;349;1;2;3
-Montevideo;2546;34;Pe地rol, Lavalleja;BZB;397;358;357;1;3;4
-Montevideo;2547;34;Pe地rol, Lavalleja;BZB;401;359;358;1;4;0
-Montevideo;2548;34;Pe地rol, Lavalleja;BZB;399;358;355;3;4;4
-Montevideo;2549;34;Pe地rol, Lavalleja;BZB;401;349;348;1;2;5
-Montevideo;2550;34;Pe地rol, Lavalleja;BZB;400;363;362;1;4;5
-Montevideo;2551;34;Pe地rol, Lavalleja;BZB;398;371;368;3;13;3
-Montevideo;2552;34;Pe地rol, Lavalleja;BZB;400;366;362;4;6;1
-Montevideo;2553;34;Pe地rol, Lavalleja;BZB;398;350;346;4;10;3
-Montevideo;2554;34;Pe地rol, Lavalleja;BZB;400;367;363;4;3;4
-Montevideo;2555;34;Pe地rol, Lavalleja;BZB;399;374;371;3;6;3
-Montevideo;2556;34;Pe地rol, Lavalleja;BZB;400;367;363;4;4;0
-Montevideo;2557;34;Pe地rol, Lavalleja;BZB;401;366;362;4;4;6
-Montevideo;2558;34;Pe地rol, Lavalleja;BZC;410;373;369;4;5;1
+Montevideo;2544;34;Pe地rol  Lavalleja;BZB;400;364;363;1;5;2
+Montevideo;2545;34;Pe地rol  Lavalleja;BZB;401;350;349;1;2;3
+Montevideo;2546;34;Pe地rol  Lavalleja;BZB;397;358;357;1;3;4
+Montevideo;2547;34;Pe地rol  Lavalleja;BZB;401;359;358;1;4;0
+Montevideo;2548;34;Pe地rol  Lavalleja;BZB;399;358;355;3;4;4
+Montevideo;2549;34;Pe地rol  Lavalleja;BZB;401;349;348;1;2;5
+Montevideo;2550;34;Pe地rol  Lavalleja;BZB;400;363;362;1;4;5
+Montevideo;2551;34;Pe地rol  Lavalleja;BZB;398;371;368;3;13;3
+Montevideo;2552;34;Pe地rol  Lavalleja;BZB;400;366;362;4;6;1
+Montevideo;2553;34;Pe地rol  Lavalleja;BZB;398;350;346;4;10;3
+Montevideo;2554;34;Pe地rol  Lavalleja;BZB;400;367;363;4;3;4
+Montevideo;2555;34;Pe地rol  Lavalleja;BZB;399;374;371;3;6;3
+Montevideo;2556;34;Pe地rol  Lavalleja;BZB;400;367;363;4;4;0
+Montevideo;2557;34;Pe地rol  Lavalleja;BZB;401;366;362;4;4;6
+Montevideo;2558;34;Pe地rol  Lavalleja;BZC;410;373;369;4;5;1
 Montevideo;2559;33;Paso de las Duranas;BZC;412;384;382;2;2;4
 Montevideo;2560;33;Paso de las Duranas;BZC;409;386;385;1;3;0
 Montevideo;2561;33;Paso de las Duranas;BZC;411;380;379;1;9;4
@@ -2611,5 +2611,3 @@ Montevideo;2609;52;Sayago;BZC;400;369;365;4;6;3
 Montevideo;2610;52;Sayago;BZC;400;380;378;2;9;0
 Montevideo;2611;52;Sayago;BZC;400;376;372;4;5;4
 Montevideo;2612;52;Sayago;BZC;399;368;364;4;7;4
-;;;;;;;;;;
-;;;;;;;;;;
