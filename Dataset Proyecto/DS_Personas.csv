@@ -1,4 +1,4 @@
-dpto,nomdpto,barrio,nombarrio,estrato,nper,sexo,edad,ascendencia,primaria,primaria_finalizado,educacionMedia,educacionMedia_finalizado,educacionTecnica,educacionTecnica_finalizado,magisterio,magisterio_Finalizado,universisdad,universidad_Finalizado,noUniversitario,noUniversitario_finalizado,postgrado,postgrado_finalizado,actividad_economica,total_ingresos
+dpto,nomdpto,barrio,NOM_BARRIO,estrato,nper,sexo,edad,ascendencia,primaria,primaria_finalizado,educacionMedia,educacionMedia_finalizado,educacionTecnica,educacionTecnica_finalizado,magisterio,magisterio_Finalizado,universisdad,universidad_Finalizado,noUniversitario,noUniversitario_finalizado,postgrado,postgrado_finalizado,actividad_economica,total_ingresos
 1,MONTEVIDEO,22,Ituzaingo,2,1,2,40,3,2,1,2,1,3,0,3,0,3,0,2,1,3,0,2,24134
 1,MONTEVIDEO,22,Ituzaingo,2,2,1,48,3,2,1,2,2,2,1,3,0,3,0,3,0,3,0,2,19736
 1,MONTEVIDEO,22,Ituzaingo,2,3,2,7,3,1,2,3,0,3,0,3,0,3,0,3,0,3,0,1,0
